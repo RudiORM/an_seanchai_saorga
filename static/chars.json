@@ -1,0 +1,828 @@
+[
+    {
+        "names":"Fionn mac cumhaill",
+        "ai name":"Fionn mccool",
+        "count":128,
+        "group":"Clan Baoiscne",
+        "description":"The head of Clan Baoiscne and the leader of the Fianna; a great and brave warrior and a generous lord. In his childhood he was been endowed with a capacity for magical insight, which he uses for guidance in difficult situations. His overbearing nature and occasional heavy-handedness toward others in the Fianna (Diarmaid and Goll, in particular) sometimes provokes tension and even violent division within the Fianna.\n"
+    },
+    {
+        "names":"Oisín",
+        "ai name":"Osheen",
+        "count":60,
+        "group":"Clan Baoiscne",
+        "description":"Fionn’s son. In his youth, a great warrior. Due to a supernatural journey to Tír na nÓg (the Land of Youth), he is the last survivor of the Fianna when the others have long since died (Mar Oisín i ndiaidh na Féinne \/ Mar Oisean an dèidh na Fèinne , ‘like Oisean after the Fianna’ is a proverbial expression in Irish and Scottish Gaelic).\n\nIn early literature Caoilte also outlives the rest of the Fianna and the two are companions in old age, but in the oral material that makes up our corpus, Oisín\/Oisean is almost always the sole survivor. A large proportion of the lays are attributed to him and are cast as his reminiscences of the adventures of his youth to St Patrick, who is curious to know about the traditions of the pre-Christian past."
+    },
+    {
+        "names":"Goll mac morna",
+        "ai name":"Gull mcMorna",
+        "count":39,
+        "group":"Clan Morna",
+        "description":"Chief of Clan Morna and both rival and ally to Fionn. Known for his strength and the slaying of Fionn's father Cumhall."
+    },
+    {
+        "names":"Oscar",
+        "ai name":"Oscar",
+        "count":38,
+        "group":"Clan Baoiscne",
+        "description":"Oisean\/Oisín’s son, a superlative warrior. He is usually presented as the finest warrior in Clan Baoiscne, and he and Goll are together the best warriors in the Fianna as a whole.\n"
+    },
+    {
+        "names":"Conán",
+        "ai name":"Cohnawn",
+        "count":33,
+        "group":"Clan Morna",
+        "description":"Often called Conán Maol (the bald), he was a contentious member of the Fianna known for his sharp tongue and troublemaking."
+    },
+    {
+        "names":"Diarmaid",
+        "ai name":"jeermid",
+        "count":24,
+        "group":"Clan Baoiscne",
+        "description":"The most handsome man in the Fianna. He has the ball seirce (love spot), a beauty spot on his forehead that magically causes women to fall in love with him if they see it. In the oral tradition, this leads Gráinne, Fionn’s bride, to elope with Diarmaid during her wedding feast. Several lays and stories tell of their exile, the Fianna’s pursuit of them, and how Fionn eventually gets his revenge when he arranges Diarmaid’s death during a boar hunt. In traditions going back at least as far as the seventeenth century, and possibly as far back as the early sixteenth or earlier, Diarmaid is said to be the progenitor of Clan Campbell in Scotland. In some texts he is said to be Fionn’s nephew.\n"
+    },
+    {
+        "names":"Foreign King",
+        "ai name":"King",
+        "count":23,
+        "group":"Antagonist",
+        "description":"A stock antagonist, sometimes named (e.g. as Magnus), sometimes not. In various lays and stories, he either leads an invasion of Ireland or lures the Fianna to Lochlann in order to trap them there. Where his stronghold is identified, he is said to be based in Beirbhe (Bergen in Norway).\n"
+    },
+    {
+        "names":"St. Patrick",
+        "ai name":"St. Patrick",
+        "count":22,
+        "group":"Other",
+        "description":"Christian missionary to Ireland often depicted in later Fenian tales listening to the stories of the aged Oisín who survived into Christian times."
+    },
+    {
+        "names":"Caoilte",
+        "ai name":"kweel-tehh",
+        "count":21,
+        "group":"Clan Baoiscne",
+        "description":"The fastest runner in the Fianna, whose swiftness is called upon when something needs to be gotten quickly, when the Fianna need a champion to run a race, or in other such circumstances. His original name was Daorghlas (or Daolghas), and he receives his new name during the events of Duan na Ceàrdaich (The Lay of the Smithy). In some earlier (literary) texts, he is one of the last survivors of the days of the Fianna, along with Oisín\/Oisean, and together they tell St Patrick about the adventures of their youth.\n"
+    },
+    {
+        "names":"Bran",
+        "ai name":"Bron",
+        "count":20,
+        "group":"Clan Baoiscne",
+        "description":"Fionn’s hound and the greatest of all hounds. Born to Fionn’s mother’s sister after she had been magically transformed into a hound, Bran is actually Fionn’s cousin, and their bond is very close. Bran’s superlative prowess is demonstrated in killing large numbers of deer and boars during hunts, defeating other hounds in dogfights, and occasionally in fighting human enemies of the Fianna. Bran is usually said to be male, but in versions of some stories is female.\n"
+    },
+    {
+        "names":"Cormac mac airt",
+        "ai name":"Cormac mckart",
+        "count":11,
+        "group":"Other",
+        "description":"The High King of Ireland. He is often depicted as an enemy of Fionn, and he either leads attacks on the Fianna or directs others to do so, although on some occasions he calls upon Fionn and the Fianna for help (this more cordial relationship was more common in the medieval literary tradition, in which the Fianna’s role as a military force under king Cormac was more apparent). Cormac mac Airt is also the central figure in an extensive body of medieval narrative, genealogical, and psuedohistorical literature in his own right.\n"
+    },
+    {
+        "names":"Gráinne",
+        "ai name":"grawnyeh",
+        "count":9,
+        "group":"Other",
+        "description":"Daughter of High King Cormac mac Airt who was betrothed to Fionn but eloped with the younger Diarmaid, causing conflict within the Fianna. A beautiful young woman who, although betrothed to Fionn, elopes at the wedding feast with Diarmaid. Several stories and lays tell of their flight from Fionn and their life together as exiles. After Fionn treacherously brings about Diarmaid’s death, different traditions have Gráinne either dying of grief or marrying Fionn and living thereafter with him, sometimes unhappily."
+    },
+    {
+        "names":"Cú chulainn",
+        "ai name":"Cu kholinn",
+        "count":9,
+        "group":"Ulster Cycle",
+        "description":"Greatest hero of the Ulster Cycle who occasionally appears in Fenian tales despite belonging to an earlier mythological period."
+    },
+    {
+        "names":"King of ireland",
+        "ai name":"King of ireland",
+        "count":8,
+        "group":"Other",
+        "description":"Generic term for various High Kings who ruled Ireland during the Fenian tales, including Cormac mac Airt and Cairbre."
+    },
+    {
+        "names":"Giant",
+        "ai name":"Giant",
+        "count":8,
+        "group":"Antagonist",
+        "description":"Generic term for various supernatural oversized foes encountered by the Fianna in their adventures."
+    },
+    {
+        "names":"Fearghas",
+        "ai name":"Ferghas",
+        "count":6,
+        "group":"Clan Baoiscne",
+        "description":"Fionn’s ambassador and standard bearer, who would raise the Gal Gréine \/ Deò-Grèine (Sunbeam), Fionn’s banner, before battles. In some Argyllshire versions of the story Bruíon Eochaidh Bhig Dheirg (Little Red-haired Eochaidh’s Enchanted Hall), he is said to be from the isle of Jura, which exempts him from Fionn’s command that no man born in Ireland (by which he really meant no man at all) follow him on a certain dangerous mission.\n"
+    },
+    {
+        "names":"Dearg",
+        "ai name":"darig",
+        "count":5,
+        "group":"Antagonist",
+        "description":"A foreign (sometimes specified as Greek) warrior who tries to invade Ireland. He beats most of the Fianna but is eventually himself defeated by Goll.\n"
+    },
+    {
+        "names":"Magnus",
+        "ai name":"magnus",
+        "count":5,
+        "group":"Antagonist",
+        "description":"A stock antagonist, sometimes named (e.g. as Magnus), sometimes not. In various lays and stories, he either leads an invasion of Ireland or lures the Fianna to Lochlann in order to trap them there. Where his stronghold is identified, he is said to be based in Beirbhe (Bergen in Norway).\n"
+    },
+    {
+        "names":"Faolan",
+        "ai name":"fwaylawn",
+        "count":5,
+        "group":"Clan Baoiscne",
+        "description":"One of Fionn’s sons. A minor member of the Fianna, mentioned in a few lays and stories.\n"
+    },
+    {
+        "names":"Tuatha dé danann",
+        "ai name":"Tooha day danan",
+        "count":5,
+        "group":"Other",
+        "description":"The divine race who ruled Ireland before the coming of the Gaels. Often interact with the Fianna as supernatural allies or adversaries."
+    },
+    {
+        "names":"Caireall",
+        "ai name":"caril",
+        "count":4,
+        "group":"Clan Baoiscne",
+        "description":"A contrarian member of Clann Baoiscne typically associated with Scotland. In some Scottish accounts, Goll’s death is the result of a dispute with Caireall over the prized marrow bones at a feast. Goll kills Caireall in single combat (see Bàs Chairill [the Death of Caireall]) and is hunted down by the other Fianna.\n"
+    },
+    {
+        "names":"Ciuthach",
+        "ai name":"keuhoc",
+        "count":4,
+        "group":"Antagonist",
+        "description":"A foreign warrior or giant who appears as an adversary to the Fianna in several tales."
+    },
+    {
+        "names":"Cumhall",
+        "ai name":"cool",
+        "count":4,
+        "group":"Clan Baoiscne",
+        "description":"Father of Fionn mac Cumhaill and former leader of the Fianna who was killed by Goll mac Morna before Fionn's birth."
+    },
+    {
+        "names":"Lon mac liobhain",
+        "ai name":"lun mclovin",
+        "count":4,
+        "group":"Antagonist",
+        "description":"He is a blacksmith of monstrous appearance and extraordinary skill who works as the smith to the king of Lochlann. He forges the wondrous swords used by the principal warriors of the Fianna, and Fionn’s own sword Mac an Luin (Son of Lonn) is named after him."
+    },
+    {
+        "names":"Garadh",
+        "ai name":"garra",
+        "count":4,
+        "group":"Clan Morna",
+        "description":"Member of Clan Morna who appears in several tales, often involved in conflicts with Clan Baoiscne."
+    },
+    {
+        "names":"Bodach an chóta lachtna",
+        "ai name":"Buddakh an khóta lachtna",
+        "count":3,
+        "group":"Antagonist",
+        "description":"'The Churl in the Drab Coat,' a mysterious figure who appears in several tales challenging the Fianna."
+    },
+    {
+        "names":"Garbh mac stairn",
+        "ai name":"Garav mcstairn",
+        "count":3,
+        "group":"Ulster Cycle",
+        "description":"A Greek warrior who invades Ireland and seeks to take the submission of all the kings there. He is eventually killed by Cú Chulainn.\n"
+    },
+    {
+        "names":"Iollann",
+        "ai name":"Garav mcstairn",
+        "count":3,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna who appears in several tales but with less prominence than the main characters."
+    },
+    {
+        "names":"Cab an Dosáin",
+        "ai name":"cab on doh-sawn",
+        "count":3,
+        "group":"Antagonist",
+        "description":"A warrior who appears as an antagonist in several Fenian tales."
+    },
+    {
+        "names":"Lonndubh",
+        "ai name":"lunn duv",
+        "count":3,
+        "group":"Antagonist",
+        "description":"A warrior who appears as an antagonist in several Fenian tales."
+    },
+    {
+        "names":"Ailbhinn",
+        "ai name":"alvin",
+        "count":3,
+        "group":"Other",
+        "description":"A woman who appears in several Fenian tales, sometimes as a love interest for one of the warriors."
+    },
+    {
+        "names":"Art",
+        "ai name":"art",
+        "count":3,
+        "group":"Other",
+        "description":"Likely refers to Art mac Cuinn, son of Conn of the Hundred Battles and father of Cormac mac Airt."
+    },
+    {
+        "names":"Niamh Cinn Óir",
+        "ai name":"neev keen orr",
+        "count":3,
+        "group":"Other",
+        "description":"Princess of Tír na nÓg who fell in love with Oisín and brought him to the Land of Youth for what seemed like three years but was actually centuries. She is also sometimes portrayed as the queen of Tír na nÓg. She is most commonly portrayed as coming out of a body of water on an enchanted horse and bringing Oisín back to her underwater kingdom.\n"
+    },
+    {
+        "names":"Cairbre",
+        "ai name":"carbreh",
+        "count":3,
+        "group":"Antagonist",
+        "description":"Son of Cormac mac Airt who became High King after him and was an enemy of the Fianna. Led the forces that defeated the Fianna at the Battle of Gabhra."
+    },
+    {
+        "names":"Conn",
+        "ai name":"kunn",
+        "count":3,
+        "group":"Other",
+        "description":"The son of Dearg who comes to Ireland seeking vengeance for this father’s death, but who, like his father before him, is killed by Goll.\n"
+    },
+    {
+        "names":"Malmhine",
+        "ai name":"malv-inna",
+        "count":2,
+        "group":"Other",
+        "description":"A character who appears in a few Fenian tales, sometimes as a love interest."
+    },
+    {
+        "names":"Aillen",
+        "ai name":"Allen",
+        "count":2,
+        "group":"Antagonist",
+        "description":"A member of the Tuatha Dé Danann who each year on the eve of Samhain, places a sleeping spell on the people of Tara (this is done by playing enchanted music on his harp). With the local population incapacitated, he proceeds to burn down the town. Fionn defeated him, earning his position as leader of the Fianna."
+    },
+    {
+        "names":"Daorghlas",
+        "ai name":"dayorglass",
+        "count":2,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna who appears in a few tales but with less prominence than the main characters."
+    },
+    {
+        "names":"Eochaidh beag dearg",
+        "ai name":"yucky bug darig",
+        "count":2,
+        "group":"Antagonist",
+        "description":"A warrior who appears as an antagonist in a few Fenian tales."
+    },
+    {
+        "names":"Pope",
+        "ai name":"pope",
+        "count":2,
+        "group":"Kings era",
+        "description":"Appears in later Christianized versions of Fenian tales, usually in relation to St. Patrick's conversion of Ireland."
+    },
+    {
+        "names":"Cailleach",
+        "ai name":"kye-loch",
+        "count":2,
+        "group":"Other",
+        "description":"Appears in multiple tales as a stock antagonist who places Fionn or other members of the Fianna under obligation, usually through the playing of forfeits, chess or some other game. Elsewhere, the figure of a cailleach is seen to serve various plot functions, ranging from attempts to seduce or capture members of the Fianna to their enchantment of one of Fionn’s hounds. In most appearances, the cailleach is ultimately slain by a member of the Fianna. In certain stories, this same motif may also be present with more specific characters (both male and female) playing tricks on members of the Fianna or placing them under obligation.\n"
+    },
+    {
+        "names":"Sceolang",
+        "ai name":"shkyo-lang",
+        "count":2,
+        "group":"Clan Baoiscne",
+        "description":"Fionn’s other hound and Bran’s brother. Like Bran, he was born to Fionn’s mother’s sister when she was in the shape of a hound, making him Fionn’s cousin. Sceolang does not appear in many tales, and is not as famous as Bran. He is present in Fáil Bhrain agus Sceolaing and Seilg Shléibhe gCulainn in Ireland. The Scottish Gaelic version “Sgeòlach” was documented by Edward Dwelly in his Gaelic-English Dictionary (1911) and appears in the Comhrag Fhinn agus Mhanuis as Sgeollach. Other Scottish forms are attested in Leabhar na Fèinne: Geola and Sgeolan (Laoidh na Con Duibhe), Geolai (Comhairle Oisein dha Mhàthair).\n"
+    },
+    {
+        "names":"Brian boru",
+        "ai name":"breen boroo",
+        "count":2,
+        "group":"Kings era",
+        "description":"Historical High King of Ireland who appears anachronistically in some later Fenian tales, despite living centuries after the supposed time of the Fianna."
+    },
+    {
+        "names":"Conall",
+        "ai name":"conall",
+        "count":2,
+        "group":"Ulster Cycle",
+        "description":"Likely Conall Cernach, a warrior of the Red Branch Knights from the Ulster Cycle who occasionally appears in Fenian tales."
+    },
+    {
+        "names":"Raighne",
+        "ai name":"riy-neh",
+        "count":2,
+        "group":"Clan Baoiscne",
+        "description":"One of the sons of Fionn mac Cumhaill who appears in a few tales but with less prominence than his brother Oisín."
+    },
+    {
+        "names":"Murchadh mac briain",
+        "ai name":"Murchadh mac briain",
+        "count":2,
+        "group":"Kings era",
+        "description":"Son of Brian Boru who appears anachronistically in some Fenian tales, despite living centuries after the supposed time of the Fianna."
+    },
+    {
+        "names":"Conlaoch",
+        "ai name":"cun layoch",
+        "count":2,
+        "group":"Ulster Cycle",
+        "description":"Son of Cú Chulainn who was killed by his own father who did not recognize him. Primarily from the Ulster Cycle but occasionally referenced in Fenian tales."
+    },
+    {
+        "names":"Crom nan cnàmh",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'Crom of the Bones,' a sinister figure associated with dark magic in some Fenian tales."
+    },
+    {
+        "names":"Laomunn mac an fhuamhair",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'Laomunn son of the Giant,' a foreign warrior who challenges the Fianna."
+    },
+    {
+        "names":"Gruaig dhearg",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"'Red Hair,' possibly referring to a female character in the Fenian tales."
+    },
+    {
+        "names":"Scoith shíoda",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"'Silken Flower,' a woman who appears in some Fenian tales, typically as a love interest."
+    },
+    {
+        "names":"Mac an lobhar",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"'Son of the Leper,' a figure who appears in some Fenian tales."
+    },
+    {
+        "names":"Madra maol",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"'The Bald Dog,' possibly a supernatural canine that appears in Fenian adventures."
+    },
+    {
+        "names":"Giolla deacair",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Difficult Servant,' a trickster figure who leads the Fianna on a strange adventure to the Otherworld."
+    },
+    {
+        "names":"An cù glas",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Grey Hound,' a supernatural canine adversary that appears in some Fenian tales."
+    },
+    {
+        "names":"Colann gan cheann",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Headless Body,' a supernatural adversary encountered by the Fianna in some tales."
+    },
+    {
+        "names":"An ridire gan gháire",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Knight Without Laughter,' a mysterious warrior encountered by the Fianna in their adventures."
+    },
+    {
+        "names":"Ciotach cruadh armach",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Left-handed Hard-armored One,' a foreign warrior who confronts the Fianna."
+    },
+    {
+        "names":"Oigh nam mòr shùil",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"'The Maiden of the Great Eyes,' a female figure who appears in Scottish Fenian folklore."
+    },
+    {
+        "names":"Lomnochtán",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Naked One,' a strange adversary encountered by the Fianna in their adventures."
+    },
+    {
+        "names":"Caol an iarainn",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"'The Slender One of Iron,' a warrior or supernatural being who appears as an adversary to the Fianna."
+    },
+    {
+        "names":"Treun",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"'The Strong One,' a warrior of the Fianna mentioned in some tales."
+    },
+    {
+        "names":"An t-óglach óg",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"'The Young Warrior,' likely a generic term for a young challenger encountered by the Fianna."
+    },
+    {
+        "names":"Ártúr",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A character who appears in later, more romanticized Fenian tales, possibly influenced by Arthurian legend."
+    },
+    {
+        "names":"Cnú deróil",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A dwarf harper who appears in the story of Fionn's youth, associated with musical skill and supernatural knowledge."
+    },
+    {
+        "names":"Suaran\/duaran",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"A foreign king or warrior who challenges the Fianna, possibly influenced by Swaran from Macpherson's Ossianic works."
+    },
+    {
+        "names":"Maighnís",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A significant female figure in the Fenian Cycle of Irish mythology, particularly in relation to Clan Morna. She was the wife of Goll mac Morna, the chief of Clan Morna and rival to Fionn mac Cumhaill."
+    },
+    {
+        "names":"Muileartach",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A terrible sea hag from Lochlann who attempts to invade Ireland and is killed by Fionn using his sword Mac an Luin.\n"
+    },
+    {
+        "names":"Sgiathan",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna mentioned in some tales, possibly connected to Sgàthan, a warrior who trained Fionn."
+    },
+    {
+        "names":"Liur",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna mentioned in some tales."
+    },
+    {
+        "names":"Seathan",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna mentioned in some tales."
+    },
+    {
+        "names":"Ailte",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna who appears in some tales as a companion to Fionn."
+    },
+    {
+        "names":"Cael",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna who appears in the tale of the pursuit of Diarmuid and Gráinne, known for his swimming abilities."
+    },
+    {
+        "names":"Coireal",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"A warrior of the Fianna, sometimes identified as a son of Fionn mac Cumhaill."
+    },
+    {
+        "names":"Céadach",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A warrior who appears in some Fenian tales, possibly connected to Céadach mac Crúnchon from other cycles."
+    },
+    {
+        "names":"Fraoch",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A warrior who appears in some Fenian tales, though more prominently featured in the Ulster Cycle."
+    },
+    {
+        "names":"Starn",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"A warrior, possibly from Lochlann (Scandinavia), who appears as an adversary to the Fianna."
+    },
+    {
+        "names":"Dubhan's daughter",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A woman who appears in a Fenian tale, typically as a love interest for one of the warriors."
+    },
+    {
+        "names":"Druid",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"Generic term for Celtic priests and magicians who appear throughout Fenian tales, sometimes as advisors and sometimes as antagonists."
+    },
+    {
+        "names":"Conn of 100 battles",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"Legendary High King of Ireland and grandfather of Cormac mac Airt, known for his many victorious battles."
+    },
+    {
+        "names":"Raoine",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"Likely a variant spelling of Raighne, one of the sons of Fionn mac Cumhaill."
+    },
+    {
+        "names":"Airt",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"Likely refers to Art mac Cuinn, son of Conn of the Hundred Battles and father of Cormac mac Airt."
+    },
+    {
+        "names":"Sadhbh",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"Oisín\/Oisean’s mother. She was for a time magically transformed into a deer, but her son recognised who she was.\n"
+    },
+    {
+        "names":"Arca dubh",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"One of Cormac’s men, according to some accounts. In some versions of the death of Fionn’s father Cumhaill, it is Arca Dubh rather than Goll who kills him.\n"
+    },
+    {
+        "names":"Three Clerics",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"Religious figures who appear in Christianized versions of Fenian tales, often interacting with the aged Oisín."
+    },
+    {
+        "names":"Donn mac an deirg",
+        "ai name":null,
+        "count":1,
+        "group":"Antagonist",
+        "description":"Son of Dearg, who comes to Ireland to avenge his father's death and battles with the Fianna."
+    },
+    {
+        "names":"Mac luthach",
+        "ai name":null,
+        "count":1,
+        "group":"Clan Baoiscne",
+        "description":"Son of Lughaidh, a warrior of the Fianna who appears in several tales, sometimes as a close companion to Fionn."
+    },
+    {
+        "names":"Adam",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Ailidh",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Airgheann",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"An donn-ghuaillfhionn",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"An t-aodh mac rosaich",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Bua-gach-áir",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Camagich",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Ceann m'órdóige",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Ceart",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A warrior of the Fianna, sometimes identified as a son of Fionn mac Cumhaill."
+    },
+    {
+        "names":"Claigean mac choin",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Coinneach odhar",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Coman",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Coraige ruadh",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Crochan",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Crom an eanraich",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Delgus",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Diarag",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Druim dearg",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Fear sraoinidh nan ràmh",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"The clumsy oarsman - part of na fianna"
+    },
+    {
+        "names":"Giolla an fhiugha",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Léichinn",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Loinnir son of leabhar",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Lorcán son of lorc",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Ludair an eanraich",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Maodh-chabir",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Neart",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":"A warrior of the Fianna, sometimes identified as a son of Fionn mac Cumhaill."
+    },
+    {
+        "names":"Ollum lom dhearg",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Rochd mac fhiachair",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Silhallan mac sithaill",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Torolbh",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    },
+    {
+        "names":"Úr",
+        "ai name":null,
+        "count":1,
+        "group":"Other",
+        "description":null
+    }
+]

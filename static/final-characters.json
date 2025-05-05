@@ -1,0 +1,778 @@
+[
+  {
+    "character":"Fionn mac cumhaill",
+    "ai name":"Fionn mccool",
+    "count":85,
+    "group":"Clan Baoiscne",
+    "description":"The head of Clan Baoiscne and the leader of the Fianna; a great and brave warrior and a generous lord. In his childhood he was been endowed with a capacity for magical insight, which he uses for guidance in difficult situations. His overbearing nature and occasional heavy-handedness toward others in the Fianna (Diarmaid and Goll, in particular) sometimes provokes tension and even violent division within the Fianna.\n",
+    "description_new":"Fionn mac Cumhaill, the formidable leader of the Fianna and Clan Baoiscne, is a wise and valiant warrior whose magical insight often guides his decisions; however, his assertive leadership can occasionally lead to friction and discord within his ranks, particularly with figures like Diarmaid and Goll."
+  },
+  {
+    "character":"Ois\u00edn",
+    "ai name":"Osheen",
+    "count":40,
+    "group":"Clan Baoiscne",
+    "description":"Fionn\u2019s son. In his youth, a great warrior. Due to a supernatural journey to T\u00edr na n\u00d3g (the Land of Youth), he is the last survivor of the Fianna when the others have long since died (Mar Ois\u00edn i ndiaidh na F\u00e9inne \/ Mar Oisean an d\u00e8idh na F\u00e8inne , \u2018like Oisean after the Fianna\u2019 is a proverbial expression in Irish and Scottish Gaelic).\n\nIn early literature Caoilte also outlives the rest of the Fianna and the two are companions in old age, but in the oral material that makes up our corpus, Ois\u00edn\/Oisean is almost always the sole survivor. A large proportion of the lays are attributed to him and are cast as his reminiscences of the adventures of his youth to St Patrick, who is curious to know about the traditions of the pre-Christian past.",
+    "description_new":"Ois\u00edn, once a fierce warrior of the Fianna and son of Fionn mac Cumhaill, now stands as a solitary bridge between the mythic past and the Christian present, driven by a longing to recount the valorous deeds of his youth and ensure that the legacy of his vanished comrades endures through his tales to St. Patrick."
+  },
+  {
+    "character":"Goll mac morna",
+    "ai name":"Gull mcMorna",
+    "count":33,
+    "group":"Clan Morna",
+    "description":"Chief of Clan Morna and both rival and ally to Fionn. Known for his strength and the slaying of Fionn's father Cumhall.",
+    "description_new":"Goll mac Morna, a formidable leader of Clan Morna, is a warrior whose complex blend of rivalry and occasional alliance with Fionn is driven by a quest for power, honor, and the resolution of past enmities, as evidenced by his renowned strength and the fateful slaying of Fionn's father, Cumhall."
+  },
+  {
+    "character":"Oscar",
+    "ai name":"Oscar",
+    "count":25,
+    "group":"Clan Baoiscne",
+    "description":"Oisean\/Ois\u00edn\u2019s son, a superlative warrior. He is usually presented as the finest warrior in Clan Baoiscne, and he and Goll are together the best warriors in the Fianna as a whole.\n",
+    "description_new":"Oscar is a fierce and exceptionally skilled warrior driven by a desire to uphold the honor and valor of Clan Baoiscne, often showcasing his bravery alongside Goll as the most formidable members of the Fianna."
+  },
+  {
+    "character":"Con\u00e1n",
+    "ai name":"Cohnawn",
+    "count":23,
+    "group":"Clan Morna",
+    "description":"Often called Con\u00e1n Maol (the bald), he was a contentious member of the Fianna known for his sharp tongue and troublemaking.",
+    "description_new":"Con\u00e1n of Clan Morna, often known as Con\u00e1n Maol, is a fiery and contentious member of the Fianna whose sharp wit and penchant for stirring conflict mask a keen desire to challenge authority and assert his own place in the legendary band."
+  },
+  {
+    "character":"Diarmaid",
+    "ai name":"jeermid",
+    "count":21,
+    "group":"Clan Baoiscne",
+    "description":"The most handsome man in the Fianna. He has the ball seirce (love spot), a beauty spot on his forehead that magically causes women to fall in love with him if they see it. In the oral tradition, this leads Gr\u00e1inne, Fionn\u2019s bride, to elope with Diarmaid during her wedding feast. Several lays and stories tell of their exile, the Fianna\u2019s pursuit of them, and how Fionn eventually gets his revenge when he arranges Diarmaid\u2019s death during a boar hunt. In traditions going back at least as far as the seventeenth century, and possibly as far back as the early sixteenth or earlier, Diarmaid is said to be the progenitor of Clan Campbell in Scotland. In some texts he is said to be Fionn\u2019s nephew.\n",
+    "description_new":"Diarmaid, an irresistible warrior of the Fianna, is driven by a blend of romantic impulsiveness and loyalty, yet is trapped by his enchanting love spot and his forbidden love for Gr\u00e1inne, ultimately navigating a tragic path shadowed by Fionn's vengeance."
+  },
+  {
+    "character":"Foreign King",
+    "ai name":"King",
+    "count":19,
+    "group":"Antagonist",
+    "description":"A stock antagonist, sometimes named (e.g. as Magnus), sometimes not. In various lays and stories, he either leads an invasion of Ireland or lures the Fianna to Lochlann in order to trap them there. Where his stronghold is identified, he is said to be based in Beirbhe (Bergen in Norway).\n",
+    "description_new":"The Foreign King, often driven by a desire for power and domination, masterminds invasions against Ireland or plots to ensnare the Fianna, showcasing his cunning and formidable nature rooted in the stronghold of Beirbhe."
+  },
+  {
+    "character":"St. Patrick",
+    "ai name":"St. Patrick",
+    "count":17,
+    "group":"Other",
+    "description":"Christian missionary to Ireland often depicted in later Fenian tales listening to the stories of the aged Ois\u00edn who survived into Christian times.",
+    "description_new":"St. Patrick is a determined and devout Christian missionary, driven by his fervent desire to convert Ireland to Christianity, yet open-minded enough to engage with and listen to the tales of the ancient Irish hero Ois\u00edn, which reflects his respect for the land's rich pagan traditions."
+  },
+  {
+    "character":"Caoilte",
+    "ai name":"kweel-tehh",
+    "count":17,
+    "group":"Clan Baoiscne",
+    "description":"The fastest runner in the Fianna, whose swiftness is called upon when something needs to be gotten quickly, when the Fianna need a champion to run a race, or in other such circumstances. His original name was Daorghlas (or Daolghas), and he receives his new name during the events of Duan na Ce\u00e0rdaich (The Lay of the Smithy). In some earlier (literary) texts, he is one of the last survivors of the days of the Fianna, along with Ois\u00edn\/Oisean, and together they tell St Patrick about the adventures of their youth.\n",
+    "description_new":"Caoilte, a member of the Clan Baoiscne and the fleet-footed champion of the Fianna, is driven by a relentless dedication to his comrades, using his unparalleled swiftness to serve and preserve the legends of his kin as he recounts their glorious past to St. Patrick alongside Ois\u00edn."
+  },
+  {
+    "character":"Bran",
+    "ai name":"Bron",
+    "count":15,
+    "group":"Clan Baoiscne",
+    "description":"Fionn\u2019s hound and the greatest of all hounds. Born to Fionn\u2019s mother\u2019s sister after she had been magically transformed into a hound, Bran is actually Fionn\u2019s cousin, and their bond is very close. Bran\u2019s superlative prowess is demonstrated in killing large numbers of deer and boars during hunts, defeating other hounds in dogfights, and occasionally in fighting human enemies of the Fianna. Bran is usually said to be male, but in versions of some stories is female.\n",
+    "description_new":"Bran, Fionn's loyal and unparalleled hound born from a magical transformation, embodies fierce loyalty and martial prowess with a deep bond to Fionn, driven by a desire to protect and uphold the honor of the Fianna."
+  },
+  {
+    "character":"Gr\u00e1inne",
+    "ai name":"grawnyeh",
+    "count":8,
+    "group":"Other",
+    "description":"Daughter of High King Cormac mac Airt who was betrothed to Fionn but eloped with the younger Diarmaid, causing conflict within the Fianna. A beautiful young woman who, although betrothed to Fionn, elopes at the wedding feast with Diarmaid. Several stories and lays tell of their flight from Fionn and their life together as exiles. After Fionn treacherously brings about Diarmaid\u2019s death, different traditions have Gr\u00e1inne either dying of grief or marrying Fionn and living thereafter with him, sometimes unhappily.",
+    "description_new":"Gr\u00e1inne is a fiercely determined and passionate woman who defies expectations and follows her heart by eloping with Diarmaid, driven by love and the courage to challenge societal norms and authority, despite the turmoil and tragic consequences it brings."
+  },
+  {
+    "character":"Cormac mac airt",
+    "ai name":"Cormac mckart",
+    "count":8,
+    "group":"Other",
+    "description":"The High King of Ireland. He is often depicted as an enemy of Fionn, and he either leads attacks on the Fianna or directs others to do so, although on some occasions he calls upon Fionn and the Fianna for help (this more cordial relationship was more common in the medieval literary tradition, in which the Fianna\u2019s role as a military force under king Cormac was more apparent). Cormac mac Airt is also the central figure in an extensive body of medieval narrative, genealogical, and psuedohistorical literature in his own right.\n",
+    "description_new":"Cormac mac Airt, the esteemed High King of Ireland, is a cunning and pragmatic ruler whose motivations oscillate between consolidating his power by opposing Fionn and the Fianna, and strategically allying with them when it serves to bolster the stability and security of his kingdom."
+  },
+  {
+    "character":"King of ireland",
+    "ai name":"King of ireland",
+    "count":8,
+    "group":"Other",
+    "description":"Generic term for various High Kings who ruled Ireland during the Fenian tales, including Cormac mac Airt and Cairbre.",
+    "description_new":"The King of Ireland in the Fenian tales is a composite figure, often depicted as a wise and authoritative leader whose motivation is to maintain peace and stability across the realm while upholding the honor and traditions of the land."
+  },
+  {
+    "character":"Giant",
+    "ai name":"Giant",
+    "count":6,
+    "group":"Antagonist",
+    "description":"Generic term for various supernatural oversized foes encountered by the Fianna in their adventures.",
+    "description_new":"An enormous and formidable adversary, driven by a desire to challenge the prowess of the Fianna and disrupt their heroic exploits, often motivated by pride and a thirst for dominance."
+  },
+  {
+    "character":"Tuatha d\u00e9 danann",
+    "ai name":"Tooha day danan",
+    "count":5,
+    "group":"Other",
+    "description":"The divine race who ruled Ireland before the coming of the Gaels. Often interact with the Fianna as supernatural allies or adversaries.",
+    "description_new":"The Tuatha D\u00e9 Danann are a mystical race driven by their desire to protect and maintain their sovereignty over Ireland, often using their supernatural abilities to influence events and form strategic alliances or enmities with mortal heroes like the Fianna."
+  },
+  {
+    "character":"Faolan",
+    "ai name":"fwaylawn",
+    "count":5,
+    "group":"Clan Baoiscne",
+    "description":"One of Fionn\u2019s sons. A minor member of the Fianna, mentioned in a few lays and stories.\n",
+    "description_new":"Faolan, a minor yet loyal member of the Fianna and son of the legendary Fionn mac Cumhaill, is driven by a strong sense of duty to his clan, seeking both to uphold his family's honor and find his own place within the storied legacy of the warriors of Clan Baoiscne."
+  },
+  {
+    "character":"Fearghas",
+    "ai name":"Ferghas",
+    "count":4,
+    "group":"Clan Baoiscne",
+    "description":"Fionn\u2019s ambassador and standard bearer, who would raise the Gal Gr\u00e9ine \/ De\u00f2-Gr\u00e8ine (Sunbeam), Fionn\u2019s banner, before battles. In some Argyllshire versions of the story Bru\u00edon Eochaidh Bhig Dheirg (Little Red-haired Eochaidh\u2019s Enchanted Hall), he is said to be from the isle of Jura, which exempts him from Fionn\u2019s command that no man born in Ireland (by which he really meant no man at all) follow him on a certain dangerous mission.\n",
+    "description_new":"Fearghas, a staunch and loyal member of Clan Baoiscne, is driven by his fierce loyalty to Fionn MacCumhaill, serving as his ambassador and standard bearer, proudly raising the Gal Gr\u00e9ine in battle, with a unique exemption from Fionn's command due to his origin from Jura, highlighting his courageous independence and commitment to the Fianna."
+  },
+  {
+    "character":"Dearg",
+    "ai name":"darig",
+    "count":4,
+    "group":"Antagonist",
+    "description":"A foreign (sometimes specified as Greek) warrior who tries to invade Ireland. He beats most of the Fianna but is eventually himself defeated by Goll.\n",
+    "description_new":"Dearg, a formidable and ambitious foreign warrior from Greece, is driven by his desire for conquest and dominion over Ireland, but he ultimately meets his match in the valor of the Fianna and the prowess of Goll, leading to his defeat."
+  },
+  {
+    "character":"Lon mac liobhain",
+    "ai name":"lun mclovin",
+    "count":4,
+    "group":"Antagonist",
+    "description":"He is a blacksmith of monstrous appearance and extraordinary skill who works as the smith to the king of Lochlann. He forges the wondrous swords used by the principal warriors of the Fianna, and Fionn\u2019s own sword Mac an Luin (Son of Lonn) is named after him.",
+    "description_new":"Lon mac Liobhain is a fearsome and masterful blacksmith whose sinister ambitions drive him to forge powerful weapons for the warriors of Lochlann, wielding his monstrous appearance and unparalleled skill to shape the destiny of battles through his creations."
+  },
+  {
+    "character":"Conn",
+    "ai name":"kunn",
+    "count":3,
+    "group":"Other",
+    "description":"The son of Dearg who comes to Ireland seeking vengeance for this father\u2019s death, but who, like his father before him, is killed by Goll.\n",
+    "description_new":"Conn, driven by a fervent desire for vengeance over his father's death, is a determined and passionate character whose quest ultimately mirrors his father's tragic fate at the hands of Goll."
+  },
+  {
+    "character":"Cumhall",
+    "ai name":"cool",
+    "count":3,
+    "group":"Clan Baoiscne",
+    "description":"Father of Fionn mac Cumhaill and former leader of the Fianna who was killed by Goll mac Morna before Fionn's birth.",
+    "description_new":"Cumhall, the determined and honorable former leader of the Fianna from Clan Baoiscne, was driven by his duty to protect his people and secure a legacy for his unborn son, Fionn, before his life was tragically cut short by his rival, Goll mac Morna."
+  },
+  {
+    "character":"Caireall",
+    "ai name":"caril",
+    "count":3,
+    "group":"Clan Baoiscne",
+    "description":"A contrarian member of Clann Baoiscne typically associated with Scotland. In some Scottish accounts, Goll\u2019s death is the result of a dispute with Caireall over the prized marrow bones at a feast. Goll kills Caireall in single combat (see B\u00e0s Chairill [the Death of Caireall]) and is hunted down by the other Fianna.\n",
+    "description_new":"Caireall, a contrarian and proud warrior of Clann Baoiscne, is driven by a fierce sense of honor and rivalry, leading to his fateful confrontation over coveted marrow bones with Goll, reflecting his inherent contentious nature and passion for asserting dominance."
+  },
+  {
+    "character":"Ciuthach",
+    "ai name":"keuhoc",
+    "count":3,
+    "group":"Antagonist",
+    "description":"A foreign warrior or giant who appears as an adversary to the Fianna in several tales.",
+    "description_new":"Ciuthach, driven by a relentless ambition to challenge the renowned Fianna and prove his strength, stands as a formidable foreign adversary fueled by a desire for conquest and recognition."
+  },
+  {
+    "character":"Iollann",
+    "ai name":"ullin",
+    "count":3,
+    "group":"Clan Baoiscne",
+    "description":"A warrior of the Fianna who appears in several tales but with less prominence than the main characters.",
+    "description_new":"Iollann, a steadfast warrior of the Clan Baoiscne in the Fianna, is motivated by a desire to uphold his clan's honor and legacy, often acting with loyalty and quiet strength in the shadow of more renowned heroes."
+  },
+  {
+    "character":"Niamh Cinn \u00d3ir",
+    "ai name":"neev keen orr",
+    "count":3,
+    "group":"Other",
+    "description":"Princess of T\u00edr na n\u00d3g who fell in love with Ois\u00edn and brought him to the Land of Youth for what seemed like three years but was actually centuries. She is also sometimes portrayed as the queen of T\u00edr na n\u00d3g. She is most commonly portrayed as coming out of a body of water on an enchanted horse and bringing Ois\u00edn back to her underwater kingdom.\n",
+    "description_new":"Niamh Cinn \u00d3ir is a compelling and ethereal figure driven by love and longing, whose enchanting allure and deep affection for Ois\u00edn compel her to bridge worlds and time, drawing him away to the mystical Land of Youth, where her heart's desires dwell amidst eternity."
+  },
+  {
+    "character":"Lonndubh",
+    "ai name":"lunn duv",
+    "count":3,
+    "group":"Antagonist",
+    "description":"A warrior who appears as an antagonist in several Fenian tales.",
+    "description_new":"Lonndubh is a formidable and cunning warrior, driven by a relentless ambition to challenge the heroes of the Fenian cycle and prove his superiority in both strength and strategy."
+  },
+  {
+    "character":"Magnus",
+    "ai name":"Magnus",
+    "count":2,
+    "group":"Antagonist",
+    "description":"A stock antagonist, sometimes named (e.g. as Magnus), sometimes not. In various lays and stories, he either leads an invasion of Ireland or lures the Fianna to Lochlann in order to trap them there. Where his stronghold is identified, he is said to be based in Beirbhe (Bergen in Norway).\n",
+    "description_new":"Magnus is a cunning and ambitious leader whose primary motivation is to expand his power and influence, often through deception and conquest, using his Nordic stronghold in Beirbhe as a base to challenge and outmaneuver the heroes of Ireland."
+  },
+  {
+    "character":"Cab an Dos\u00e1in",
+    "ai name":"cab on doh-sawn",
+    "count":2,
+    "group":"Antagonist",
+    "description":"A warrior who appears as an antagonist in several Fenian tales.",
+    "description_new":"Cab an Dos\u00e1in is a formidable and relentless warrior, driven by a desire to challenge and dismantle the heroic reputations of the Fenian protagonists, using his cunning and combat prowess to foil their endeavors."
+  },
+  {
+    "character":"Garbh mac stairn",
+    "ai name":"Garav mcstairn",
+    "count":2,
+    "group":"Ulster Cycle",
+    "description":"A Greek warrior who invades Ireland and seeks to take the submission of all the kings there. He is eventually killed by C\u00fa Chulainn.\n",
+    "description_new":"Garbh mac Stairn is a fierce and ambitious Greek warrior driven by a thirst for conquest, aiming to assert dominance over Ireland's kings, until his relentless pursuit ultimately leads to his demise at the hands of the legendary hero C\u00fa Chulainn."
+  },
+  {
+    "character":"Conall",
+    "ai name":"kunn-al",
+    "count":2,
+    "group":"Ulster Cycle",
+    "description":"Likely Conall Cernach, a warrior of the Red Branch Knights from the Ulster Cycle who occasionally appears in Fenian tales.",
+    "description_new":"Conall Cernach, a fiercely loyal and valorous warrior of the Red Branch Knights, is driven by a deep-seated desire to uphold honor and protect Ulster, often seeking to avenge wrongs against his people with unwavering determination."
+  },
+  {
+    "character":"Daorghlas",
+    "ai name":"dayorglass",
+    "count":2,
+    "group":"Clan Baoiscne",
+    "description":"A warrior of the Fianna who appears in a few tales but with less prominence than the main characters.",
+    "description_new":"Daorghlas, a valiant but lesser-known warrior of the Fianna and member of Clan Baoiscne, seeks personal glory and the respect of his peers, driven by a steadfast loyalty to the heroic ideals embodied by his illustrious clan."
+  },
+  {
+    "character":"Ailbhinn",
+    "ai name":"alvin",
+    "count":2,
+    "group":"Other",
+    "description":"A woman who appears in several Fenian tales, sometimes as a love interest for one of the warriors.",
+    "description_new":"Ailbhinn is a captivating and enigmatic figure who often entices the Fenian warriors with her allure, driven by a desire for connection and adventure amidst the heroic exploits surrounding her."
+  },
+  {
+    "character":"Sceolang",
+    "ai name":"shkyo-lang",
+    "count":2,
+    "group":"Clan Baoiscne",
+    "description":"Fionn\u2019s other hound and Bran\u2019s brother. Like Bran, he was born to Fionn\u2019s mother\u2019s sister when she was in the shape of a hound, making him Fionn\u2019s cousin. Sceolang does not appear in many tales, and is not as famous as Bran. He is present in F\u00e1il Bhrain agus Sceolaing and Seilg Shl\u00e9ibhe gCulainn in Ireland. The Scottish Gaelic version \u201cSge\u00f2lach\u201d was documented by Edward Dwelly in his Gaelic-English Dictionary (1911) and appears in the Comhrag Fhinn agus Mhanuis as Sgeollach. Other Scottish forms are attested in Leabhar na F\u00e8inne: Geola and Sgeolan (Laoidh na Con Duibhe), Geolai (Comhairle Oisein dha Mh\u00e0thair).\n",
+    "description_new":"Sceolang, hailing from the legendary Clan Baoiscne and Fionn mac Cumhaill's devoted hound and cousin, is driven by loyalty and the desire to protect and support his master, though he remains overshadowed by his more famous brother, Bran."
+  },
+  {
+    "character":"Cailleach",
+    "ai name":"kye-loch",
+    "count":2,
+    "group":"Other",
+    "description":"Appears in multiple tales as a stock antagonist who places Fionn or other members of the Fianna under obligation, usually through the playing of forfeits, chess or some other game. Elsewhere, the figure of a cailleach is seen to serve various plot functions, ranging from attempts to seduce or capture members of the Fianna to their enchantment of one of Fionn\u2019s hounds. In most appearances, the cailleach is ultimately slain by a member of the Fianna. In certain stories, this same motif may also be present with more specific characters (both male and female) playing tricks on members of the Fianna or placing them under obligation.\n",
+    "description_new":"The Cailleach, a cunning and often antagonistic figure, is driven by a desire to test and ensnare heroes like Fionn and the Fianna through games and enchantments, ultimately motivated by a blend of mischief and a challenge to their prowess."
+  },
+  {
+    "character":"Garadh",
+    "ai name":"kunn",
+    "count":2,
+    "group":"Clan Morna",
+    "description":"Member of Clan Morna who appears in several tales, often involved in conflicts with Clan Baoiscne.",
+    "description_new":"Garadh is a fiercely loyal member of Clan Morna, driven by a deep sense of duty and allegiance to his kin, often finding himself embroiled in the relentless rivalries and conflicts against the opposing Clan Baoiscne."
+  },
+  {
+    "character":"Aillen",
+    "ai name":"Allen",
+    "count":2,
+    "group":"Antagonist",
+    "description":"A member of the Tuatha D\u00e9 Danann who each year on the eve of Samhain, places a sleeping spell on the people of Tara (this is done by playing enchanted music on his harp). With the local population incapacitated, he proceeds to burn down the town. Fionn defeated him, earning his position as leader of the Fianna.",
+    "description_new":"Aillen, driven by a desire to disrupt and assert his power over Tara, uses his enchanting musical prowess to cast a yearly spell of slumber upon the town, allowing him to raze it with impunity until his eventual defeat by Fionn."
+  },
+  {
+    "character":"Bodach an ch\u00f3ta lachtna",
+    "ai name":"Buddakh an kh\u00f3ta lachtna",
+    "count":2,
+    "group":"Antagonist",
+    "description":"'The Churl in the Drab Coat,' a mysterious figure who appears in several tales challenging the Fianna.",
+    "description_new":"Bodach an ch\u00f3ta lachtna, shrouded in mystery and draped in a nondescript coat, is a cunning and confrontational figure driven by a desire to test the mettle of the Fianna and disrupt their legendary unity."
+  },
+  {
+    "character":"C\u00fa chulainn",
+    "ai name":"Cu kholinn",
+    "count":2,
+    "group":"Ulster Cycle",
+    "description":"Greatest hero of the Ulster Cycle who occasionally appears in Fenian tales despite belonging to an earlier mythological period.",
+    "description_new":"C\u00fa Chulainn, the legendary warrior of the Ulster Cycle, is driven by an unyielding sense of honor and destiny to protect his people, demonstrating unmatched bravery and occasionally reckless ferocity in the face of overwhelming odds."
+  },
+  {
+    "character":"Eochaidh beag dearg",
+    "ai name":"yucky bug darig",
+    "count":2,
+    "group":"Antagonist",
+    "description":"A warrior who appears as an antagonist in a few Fenian tales.",
+    "description_new":"Eochaidh Beag Dearg is a cunning and ambitious warrior whose relentless pursuit of power and status often places him in opposition to the noble Fianna, driven by a desire to prove his might and secure his legacy."
+  },
+  {
+    "character":"Druid",
+    "ai name":"prope",
+    "count":1,
+    "group":"Other",
+    "description":"Generic term for Celtic priests and magicians who appear throughout Fenian tales, sometimes as advisors and sometimes as antagonists.",
+    "description_new":"The Druid, a figure of mystic wisdom and arcane power, deftly navigates the realms of advisor and antagonist, driven by a deep allegiance to the natural and spiritual laws governing the world and a desire to maintain or disrupt cosmic balance depending on their end goal."
+  },
+  {
+    "character":"Maighn\u00eds",
+    "ai name":"my-neesh",
+    "count":1,
+    "group":"Other",
+    "description":"A significant female figure in the Fenian Cycle of Irish mythology, particularly in relation to Clan Morna. She was the wife of Goll mac Morna, the chief of Clan Morna and rival to Fionn mac Cumhaill.",
+    "description_new":"Maighn\u00eds is a resilient and devoted figure caught in the tumultuous rivalry between Goll mac Morna and Fionn mac Cumhaill, driven by a deep loyalty to her husband and her desire to maintain the honor and strength of Clan Morna amidst the ongoing conflict."
+  },
+  {
+    "character":"Ceart",
+    "ai name":"cyart",
+    "count":1,
+    "group":"Other",
+    "description":"A warrior of the Fianna, sometimes identified as a son of Fionn mac Cumhaill.",
+    "description_new":"Ceart, a formidable warrior of the Fianna and possibly a son of the legendary Fionn mac Cumhaill, is driven by a fierce loyalty to his comrades and a deep-seated desire to uphold the honor and legacy of his lineage through bravery and prowess in battle."
+  },
+  {
+    "character":"\u00dar",
+    "ai name":"oor",
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"\u00c1rt\u00far",
+    "ai name":"artoor",
+    "count":1,
+    "group":"Other",
+    "description":"A character who appears in later, more romanticized Fenian tales, possibly influenced by Arthurian legend.",
+    "description_new":"\u00c1rt\u00far, influenced by the chivalric ideals of Arthurian legend, is a noble and valorous warrior driven by a quest for honor and justice within the romanticized world of later Fenian tales."
+  },
+  {
+    "character":"Ollum lom dhearg",
+    "ai name":"ulum lum darig",
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Lomnocht\u00e1n",
+    "ai name":"lumnawktawn",
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Naked One,' a strange adversary encountered by the Fianna in their adventures.",
+    "description_new":"Lomnocht\u00e1n, known as 'The Naked One,' is a peculiar and enigmatic figure who thrives on confounding the Fianna with his bizarre antics and unpredictable nature, driven by a desire to disrupt and challenge their heroic ideals."
+  },
+  {
+    "character":"Torolbh",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Starn",
+    "ai name":"starn",
+    "count":1,
+    "group":"Antagonist",
+    "description":"A warrior, possibly from Lochlann (Scandinavia), who appears as an adversary to the Fianna.",
+    "description_new":"Starn is a fierce and determined warrior from Lochlann, driven by a desire to defeat the Fianna and prove the supremacy of his people."
+  },
+  {
+    "character":"Crochan",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Sadhbh",
+    "ai name":"sive",
+    "count":1,
+    "group":"Other",
+    "description":"Ois\u00edn\/Oisean\u2019s mother. She was for a time magically transformed into a deer, but her son recognised who she was.\n",
+    "description_new":"Sadhbh is a resilient and compassionate figure, driven by her deep love for her son Ois\u00edn, striving to return to her human form and reunite with him despite the magical curse that transformed her into a deer."
+  },
+  {
+    "character":"Ailidh",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Airt",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"Likely refers to Art mac Cuinn, son of Conn of the Hundred Battles and father of Cormac mac Airt.",
+    "description_new":"Art mac Cuinn, a noble and resolute figure in Irish mythology, is driven by a deep sense of duty to uphold his father's legacy and prepare a prosperous path for his son, Cormac mac Airt, while navigating the tumultuous landscape of ancient Ireland."
+  },
+  {
+    "character":"Laomunn mac an fhuamhair",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'Laomunn son of the Giant,' a foreign warrior who challenges the Fianna.",
+    "description_new":"Laomunn mac an fhuamhair, driven by a desire to prove his prowess and legacy as the son of a giant, challenges the Fianna with a formidable mix of strength and cunning, seeking glory and dominance over renowned warriors."
+  },
+  {
+    "character":"Donn mac an deirg",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"Son of Dearg, who comes to Ireland to avenge his father's death and battles with the Fianna.",
+    "description_new":"Donn mac an Deirg is a driven and vengeful figure fueled by a fierce loyalty to his father, determined to confront the Fianna and seek retribution for the death of Dearg, which colors his every action with a sense of resolute purpose."
+  },
+  {
+    "character":"Lorc\u00e1n son of lorc",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Cn\u00fa der\u00f3il",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"A dwarf harper who appears in the story of Fionn's youth, associated with musical skill and supernatural knowledge.",
+    "description_new":"Cn\u00fa Der\u00f3il is a cunning and mystical dwarf harper, whose enchanting music and profound supernatural insight guide and shape the early adventures of Fionn, driven by a deep-seated dedication to the ancient arts and wisdom."
+  },
+  {
+    "character":"Liur",
+    "ai name":null,
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"A warrior of the Fianna mentioned in some tales.",
+    "description_new":"Liur is a fierce and loyal warrior of the Fianna, driven by the desire to uphold the honor and camaraderie of Clan Baoiscne while proving his valor in battle."
+  },
+  {
+    "character":"Airgheann",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Loinnir son of leabhar",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Druim dearg",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Ailte",
+    "ai name":null,
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"A warrior of the Fianna who appears in some tales as a companion to Fionn.",
+    "description_new":"Ailte, a valiant warrior of the Fianna and loyal companion to Fionn Mac Cumhaill, is driven by a deep sense of camaraderie and the pursuit of glory in battle to uphold the honor of the Clan Baoiscne."
+  },
+  {
+    "character":"Camagich",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Maodh-chabir",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Bua-gach-\u00e1ir",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Neart",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"A warrior of the Fianna, sometimes identified as a son of Fionn mac Cumhaill.",
+    "description_new":"Neart, a formidable warrior of the Fianna, driven by a fierce loyalty to his kinsmen and a steadfast desire to uphold the honor and legacy of his father, Fionn mac Cumhaill, embodies strength and determination in the face of adversity."
+  },
+  {
+    "character":"Colann gan cheann",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Headless Body,' a supernatural adversary encountered by the Fianna in some tales.",
+    "description_new":"Colann gan cheann, or 'The Headless Body,' is a relentless and enigmatic adversary driven by a desire to challenge the Fianna, embodying the chaos and mystery of the otherworld with a motive shrouded in darkness and intrigue."
+  },
+  {
+    "character":"Scoith sh\u00edoda",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"'Silken Flower,' a woman who appears in some Fenian tales, typically as a love interest.",
+    "description_new":"Scoith Sh\u00edoda, known as 'Silken Flower,' is a captivating and enigmatic figure in Fenian tales, driven by desires for romance and connection, often intertwining beauty with a sense of mystery in her interactions with heroes."
+  },
+  {
+    "character":"Cairbre",
+    "ai name":"carbreh",
+    "count":1,
+    "group":"Antagonist",
+    "description":"Son of Cormac mac Airt who became High King after him and was an enemy of the Fianna. Led the forces that defeated the Fianna at the Battle of Gabhra.",
+    "description_new":"Cairbre, son of Cormac mac Airt, is a determined and strategic leader whose primary motivation is to secure his legacy and power by overthrowing the renowned Fianna, culminating in his pivotal role at the Battle of Gabhra."
+  },
+  {
+    "character":"Fear sraoinidh nan r\u00e0mh",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"The clumsy oarsman - part of na fianna",
+    "description_new":"Fear Sraoinidh nan R\u00e0mh, a member of Na Fianna, is a well-meaning but inept oarsman whose determination to prove his worth to his comrades often leads to chaotic yet endearing mishaps on the water."
+  },
+  {
+    "character":"Dubhan\u2019s daughter",
+    "ai name":null,
+    "count":1,
+    "group":null,
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"An c\u00f9 glas",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Grey Hound,' a supernatural canine adversary that appears in some Fenian tales.",
+    "description_new":"An C\u00f9 Glas is a cunning and formidable supernatural hound whose primary motivation is to challenge and thwart the Fianna, testing their strength and wits with its otherworldly abilities and relentless pursuit."
+  },
+  {
+    "character":"L\u00e9ichinn",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"A widower."
+  },
+  {
+    "character":"Three Clerics",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"Religious figures who appear in Christianized versions of Fenian tales, often interacting with the aged Ois\u00edn.",
+    "description_new":"The Three Clerics are wise and devout religious figures who seek to guide the aged Ois\u00edn towards redemption and spiritual enlightenment, bridging the gap between the pagan past and the Christian present with compassion and patience."
+  },
+  {
+    "character":"An ridire gan gh\u00e1ire",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Knight Without Laughter,' a mysterious warrior encountered by the Fianna in their adventures.",
+    "description_new":"An Ridire Gan Gh\u00e1ire, or 'The Knight Without Laughter,' is a stoic and enigmatic figure with a singular drive to challenge the Fianna, motivated by a deep-seated desire to test the limits of his own emotional restraint and the mirthful bonds between warriors."
+  },
+  {
+    "character":"Coireal",
+    "ai name":null,
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"A warrior of the Fianna, sometimes identified as a son of Fionn mac Cumhaill.",
+    "description_new":"Coireal, a fierce and valiant warrior of the Fianna and sometimes noted as a son of the legendary Fionn mac Cumhaill, is driven by a deep loyalty to his clan and a relentless pursuit of honor and valor in battle."
+  },
+  {
+    "character":"Caol an iarainn",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Slender One of Iron,' a warrior or supernatural being who appears as an adversary to the Fianna.",
+    "description_new":"Caol an Iarainn, \"The Slender One of Iron,\" is a formidable and relentless antagonist whose motivations are driven by a desire to challenge the legendary Fianna, testing their strength and resolve through cunning and combat."
+  },
+  {
+    "character":"Cael",
+    "ai name":null,
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"A warrior of the Fianna who appears in the tale of the pursuit of Diarmuid and Gr\u00e1inne, known for his swimming abilities.",
+    "description_new":"Cael, a formidable and skilled warrior of the Fianna's Clan Baoiscne, is driven by a spirit of loyalty and adventure, with his exceptional swimming prowess underscoring his determination to conquer any challenge that arises, as demonstrated in the tale of the pursuit of Diarmuid and Gr\u00e1inne."
+  },
+  {
+    "character":"Raoine",
+    "ai name":"riy-neh",
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"Likely a variant spelling of Raighne, one of the sons of Fionn mac Cumhaill.",
+    "description_new":"Raoine, a formidable warrior and devoted son of Fionn mac Cumhaill, is driven by a fierce loyalty to his clan and a relentless pursuit to uphold the honor and legacy of the Clan Baoiscne."
+  },
+  {
+    "character":"Conn of 100 battles",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"Legendary High King of Ireland and grandfather of Cormac mac Airt, known for his many victorious battles.",
+    "description_new":"Conn of 100 Battles is a formidable and strategic High King of Ireland, driven by a relentless pursuit of power and legacy, seeking to solidify his rule and heritage through numerous successful conquests."
+  },
+  {
+    "character":"Arca dubh",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"One of Cormac\u2019s men, according to some accounts. In some versions of the death of Fionn\u2019s father Cumhaill, it is Arca Dubh rather than Goll who kills him.\n",
+    "description_new":"Arca Dubh, driven by ambition and allegiance to his own interests, is a cunning and treacherous figure who betrays loyalties for personal gain and is ultimately responsible for the fall of Cumhaill, igniting a cycle of vengeance in Irish lore."
+  },
+  {
+    "character":"Coraige ruadh",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Art",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"Likely refers to Art mac Cuinn, son of Conn of the Hundred Battles and father of Cormac mac Airt.",
+    "description_new":"Art mac Cuinn, known for his noble lineage as the son of Conn of the Hundred Battles and the father of Cormac mac Airt, is driven by a profound sense of duty to uphold his family's legacy and protect the sovereignty of Ireland, embodying the virtues of valor and wisdom."
+  },
+  {
+    "character":"Gruaig dhearg",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"'Red Hair,' possibly referring to a female character in the Fenian tales.",
+    "description_new":"Gruaig Dhearg, a spirited and enigmatic figure from the Fenian tales, is driven by a deep-seated desire for freedom and self-expression, her vibrant red hair symbolizing her fiery independence and untamed nature."
+  },
+  {
+    "character":"Ceann m\u2019\u00f3rd\u00f3ige",
+    "ai name":null,
+    "count":1,
+    "group":null,
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"An t-aodh mac rosaich",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"An t-Aodh mac Rosaich, though not widely documented in traditional Irish mythology, could be imagined as a fierce and determined warrior driven by the desire to uphold his family's honor and navigate the balance between duty and personal ambition in the face of external challenges."
+  },
+  {
+    "character":"Claigean mac choin",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Diarag",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Delgus",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":null,
+    "description_new":"XXX"
+  },
+  {
+    "character":"Muileartach",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"A terrible sea hag from Lochlann who attempts to invade Ireland and is killed by Fionn using his sword Mac an Luin.\n",
+    "description_new":"Muileartach is a fearsome sea hag from Lochlann, driven by a relentless thirst for conquest and chaos, whose formidable presence challenges Ireland's heroes until her demise at the hands of Fionn and his powerful sword, Mac an Luin."
+  },
+  {
+    "character":"Raighne",
+    "ai name":"riy-neh",
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"One of the sons of Fionn mac Cumhaill who appears in a few tales but with less prominence than his brother Ois\u00edn.",
+    "description_new":"Raighne, a lesser-known son of the legendary hero Fionn mac Cumhaill and member of the illustrious Clan Baoiscne, is driven by a desire to prove his worth and live up to his family's legendary status while carving out his own identity separate from his celebrated brother Ois\u00edn."
+  },
+  {
+    "character":"Mac luthach",
+    "ai name":null,
+    "count":1,
+    "group":"Clan Baoiscne",
+    "description":"Son of Lughaidh, a warrior of the Fianna who appears in several tales, sometimes as a close companion to Fionn.",
+    "description_new":"Mac Luthach, a valiant warrior of the Fianna and son of Lughaidh, is driven by loyalty to his clan, Clan Baoiscne, and a steadfast commitment to his close companion, Fionn, as he strives to uphold the honor of his lineage through bravery and camaraderie."
+  },
+  {
+    "character":"Mac an lobhar",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"'Son of the Leper,' a figure who appears in some Fenian tales.",
+    "description_new":"Mac an Lobhar, known as the \"Son of the Leper,\" is a mysterious figure from Fenian tales driven by a desire to navigate his ambiguous lineage and overcome the societal stigma attached to his origins, often embodying resilience and ingenuity in the face of adversity."
+  },
+  {
+    "character":"Giolla deacair",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Difficult Servant,' a trickster figure who leads the Fianna on a strange adventure to the Otherworld.",
+    "description_new":"Giolla Deacair, the cunning trickster, delights in leading the Fianna into the unknown realms of the Otherworld, driven by a mischievous desire to challenge their wits and test their mettle."
+  },
+  {
+    "character":"An t-\u00f3glach \u00f3g",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"'The Young Warrior,' likely a generic term for a young challenger encountered by the Fianna.",
+    "description_new":"An t-\u00d3glach \u00d3g is a spirited and ambitious young warrior, driven by a deep desire to prove his valor and strength by challenging the legendary Fianna."
+  },
+  {
+    "character":"Madra maol",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"'The Bald Dog,' possibly a supernatural canine that appears in Fenian adventures.",
+    "description_new":"Madra Maol, known as 'The Bald Dog,' is a mysterious and possibly supernatural canine linked to Fenian tales, motivated by a deep-rooted instinct to serve as both protector and enigmatic guide to those who encounter its otherworldly presence."
+  },
+  {
+    "character":"C\u00e9adach",
+    "ai name":null,
+    "count":1,
+    "group":"Other",
+    "description":"A warrior who appears in some Fenian tales, possibly connected to C\u00e9adach mac Cr\u00fanchon from other cycles.",
+    "description_new":"C\u00e9adach is a formidable and enigmatic warrior whose fierce loyalty and ambition drive him to seek glory and honor, potentially bridging tales from different cycles as he navigates the complexities of his world."
+  },
+  {
+    "character":"Ciotach cruadh armach",
+    "ai name":null,
+    "count":1,
+    "group":"Antagonist",
+    "description":"'The Left-handed Hard-armored One,' a foreign warrior who confronts the Fianna.",
+    "description_new":"Ciotach Cruadh Armach is a formidable and relentless foreign warrior driven by a desire to challenge and prove his might against the legendary Fianna, embodying both tactical cunning and an unyielding spirit in battle."
+  }
+]

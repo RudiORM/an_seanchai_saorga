@@ -1,0 +1,2212 @@
+[
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Ois\u00edn",
+    "weight":28
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Goll mac morna",
+    "weight":26
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Oscar",
+    "weight":20
+  },
+  {
+    "source":"Ois\u00edn",
+    "target":"St. Patrick",
+    "weight":20
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Ois\u00edn",
+    "weight":19
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Foreign King",
+    "weight":19
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Fionn mac cumhaill",
+    "weight":17
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Fionn mac cumhaill",
+    "weight":16
+  },
+  {
+    "source":"Ois\u00edn",
+    "target":"Oscar",
+    "weight":14
+  },
+  {
+    "source":"Bran",
+    "target":"Fionn mac cumhaill",
+    "weight":14
+  },
+  {
+    "source":"Caoilte",
+    "target":"Fionn mac cumhaill",
+    "weight":14
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Goll mac morna",
+    "weight":14
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"St. Patrick",
+    "weight":11
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Goll mac morna",
+    "weight":11
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Oscar",
+    "weight":10
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Diarmaid",
+    "weight":9
+  },
+  {
+    "source":"Foreign King",
+    "target":"Goll mac morna",
+    "weight":9
+  },
+  {
+    "source":"Caoilte",
+    "target":"Ois\u00edn",
+    "weight":9
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Oscar",
+    "weight":8
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"King of ireland",
+    "weight":8
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Ois\u00edn",
+    "weight":8
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Fionn mac cumhaill",
+    "weight":7
+  },
+  {
+    "source":"Foreign King",
+    "target":"Oscar",
+    "weight":7
+  },
+  {
+    "source":"Foreign King",
+    "target":"Ois\u00edn",
+    "weight":6
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Ois\u00edn",
+    "weight":6
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Foreign King",
+    "weight":6
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Giant",
+    "weight":6
+  },
+  {
+    "source":"Oscar",
+    "target":"St. Patrick",
+    "weight":6
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"St. Patrick",
+    "weight":6
+  },
+  {
+    "source":"Caoilte",
+    "target":"St. Patrick",
+    "weight":5
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Gr\u00e1inne",
+    "weight":5
+  },
+  {
+    "source":"Faolan",
+    "target":"Fionn mac cumhaill",
+    "weight":5
+  },
+  {
+    "source":"Faolan",
+    "target":"Ois\u00edn",
+    "weight":5
+  },
+  {
+    "source":"Caoilte",
+    "target":"Goll mac morna",
+    "weight":5
+  },
+  {
+    "source":"Caoilte",
+    "target":"Oscar",
+    "weight":5
+  },
+  {
+    "source":"Faolan",
+    "target":"Goll mac morna",
+    "weight":4
+  },
+  {
+    "source":"Conn",
+    "target":"Ois\u00edn",
+    "weight":4
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Gr\u00e1inne",
+    "weight":4
+  },
+  {
+    "source":"Fearghas",
+    "target":"Fionn mac cumhaill",
+    "weight":4
+  },
+  {
+    "source":"Faolan",
+    "target":"Oscar",
+    "weight":4
+  },
+  {
+    "source":"Caoilte",
+    "target":"Faolan",
+    "weight":4
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Lon mac liobhain",
+    "weight":4
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Foreign King",
+    "weight":4
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Ois\u00edn",
+    "weight":4
+  },
+  {
+    "source":"Foreign King",
+    "target":"King of ireland",
+    "weight":4
+  },
+  {
+    "source":"Caoilte",
+    "target":"Foreign King",
+    "weight":4
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Ois\u00edn",
+    "weight":4
+  },
+  {
+    "source":"Foreign King",
+    "target":"St. Patrick",
+    "weight":4
+  },
+  {
+    "source":"Caoilte",
+    "target":"Diarmaid",
+    "weight":3
+  },
+  {
+    "source":"Cumhall",
+    "target":"Goll mac morna",
+    "weight":3
+  },
+  {
+    "source":"C\u00e9adach",
+    "target":"Lonndubh",
+    "weight":3
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Oscar",
+    "weight":3
+  },
+  {
+    "source":"Bran",
+    "target":"Con\u00e1n",
+    "weight":3
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Fearghas",
+    "weight":3
+  },
+  {
+    "source":"Dearg",
+    "target":"Fionn mac cumhaill",
+    "weight":3
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Garadh",
+    "weight":3
+  },
+  {
+    "source":"Dearg",
+    "target":"Goll mac morna",
+    "weight":3
+  },
+  {
+    "source":"Diarmaid",
+    "target":"St. Patrick",
+    "weight":3
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Faolan",
+    "weight":3
+  },
+  {
+    "source":"Bran",
+    "target":"Ois\u00edn",
+    "weight":3
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Goll mac morna",
+    "weight":3
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":3
+  },
+  {
+    "source":"Caireall",
+    "target":"Fionn mac cumhaill",
+    "weight":3
+  },
+  {
+    "source":"Faolan",
+    "target":"St. Patrick",
+    "weight":3
+  },
+  {
+    "source":"Fearghas",
+    "target":"Goll mac morna",
+    "weight":3
+  },
+  {
+    "source":"Fearghas",
+    "target":"Ois\u00edn",
+    "weight":3
+  },
+  {
+    "source":"Fearghas",
+    "target":"Oscar",
+    "weight":3
+  },
+  {
+    "source":"Caoilte",
+    "target":"Fearghas",
+    "weight":3
+  },
+  {
+    "source":"Caoilte",
+    "target":"Con\u00e1n",
+    "weight":3
+  },
+  {
+    "source":"Gruaig dhearg",
+    "target":"Lonndubh",
+    "weight":3
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Lonndubh",
+    "weight":3
+  },
+  {
+    "source":"Conn",
+    "target":"Fionn mac cumhaill",
+    "weight":3
+  },
+  {
+    "source":"Lonndubh",
+    "target":"Scoith sh\u00edoda",
+    "weight":3
+  },
+  {
+    "source":"Foreign King",
+    "target":"Giant",
+    "weight":3
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"St. Patrick",
+    "weight":2
+  },
+  {
+    "source":"Caoilte",
+    "target":"Garbh mac stairn",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Airgheann",
+    "weight":2
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Diarmaid",
+    "weight":2
+  },
+  {
+    "source":"Ciuthach",
+    "target":"Diarmaid",
+    "weight":2
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Lon mac liobhain",
+    "weight":2
+  },
+  {
+    "source":"Conall",
+    "target":"Garbh mac stairn",
+    "weight":2
+  },
+  {
+    "source":"Ciuthach",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Ciuthach",
+    "target":"Gr\u00e1inne",
+    "weight":2
+  },
+  {
+    "source":"Conall",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Faolan",
+    "weight":2
+  },
+  {
+    "source":"Conn",
+    "target":"Cormac mac airt",
+    "weight":2
+  },
+  {
+    "source":"Conn",
+    "target":"Daorghlas",
+    "weight":2
+  },
+  {
+    "source":"Conn",
+    "target":"Goll mac morna",
+    "weight":2
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Daorghlas",
+    "weight":2
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Cormac mac airt",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Ailte",
+    "weight":2
+  },
+  {
+    "source":"Crochan",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":2
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Magnus",
+    "weight":2
+  },
+  {
+    "source":"Foreign King",
+    "target":"Garadh",
+    "weight":2
+  },
+  {
+    "source":"Foreign King",
+    "target":"Iollann",
+    "weight":2
+  },
+  {
+    "source":"Foreign King",
+    "target":"Mac an lobhar",
+    "weight":2
+  },
+  {
+    "source":"Foreign King",
+    "target":"Mac luthach",
+    "weight":2
+  },
+  {
+    "source":"Giant",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Iollann",
+    "weight":2
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Lon mac liobhain",
+    "weight":2
+  },
+  {
+    "source":"Gr\u00e1inne",
+    "target":"King of ireland",
+    "weight":2
+  },
+  {
+    "source":"Gr\u00e1inne",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":2
+  },
+  {
+    "source":"King of ireland",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Lon mac liobhain",
+    "target":"Ois\u00edn",
+    "weight":2
+  },
+  {
+    "source":"Lon mac liobhain",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Niamh Cinn \u00d3ir",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Starn",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":2
+  },
+  {
+    "source":"Torolbh",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":2
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Sceolang",
+    "weight":2
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Iollann",
+    "weight":2
+  },
+  {
+    "source":"C\u00fa chulainn",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Garbh mac stairn",
+    "weight":2
+  },
+  {
+    "source":"C\u00fa chulainn",
+    "target":"Garbh mac stairn",
+    "weight":2
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Delgus",
+    "weight":2
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Faolan",
+    "weight":2
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Goll mac morna",
+    "weight":2
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Lon mac liobhain",
+    "weight":2
+  },
+  {
+    "source":"Daorghlas",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Dearg",
+    "target":"Foreign King",
+    "weight":2
+  },
+  {
+    "source":"Dearg",
+    "target":"Ois\u00edn",
+    "weight":2
+  },
+  {
+    "source":"Delgus",
+    "target":"Ois\u00edn",
+    "weight":2
+  },
+  {
+    "source":"Druim dearg",
+    "target":"Ois\u00edn",
+    "weight":2
+  },
+  {
+    "source":"Eochaidh beag dearg",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Faolan",
+    "target":"Foreign King",
+    "weight":2
+  },
+  {
+    "source":"Fearghas",
+    "target":"Raoine",
+    "weight":2
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Garadh",
+    "weight":2
+  },
+  {
+    "source":"Diarmaid",
+    "target":"King of ireland",
+    "weight":2
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Foreign King",
+    "weight":2
+  },
+  {
+    "source":"Cailleach",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Goll mac morna",
+    "weight":2
+  },
+  {
+    "source":"Caireall",
+    "target":"Oscar",
+    "weight":2
+  },
+  {
+    "source":"Aillen",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Bran",
+    "target":"Sceolang",
+    "weight":2
+  },
+  {
+    "source":"Caireall",
+    "target":"Goll mac morna",
+    "weight":2
+  },
+  {
+    "source":"Caireall",
+    "target":"Foreign King",
+    "weight":2
+  },
+  {
+    "source":"Ailte",
+    "target":"Ois\u00edn",
+    "weight":2
+  },
+  {
+    "source":"Bran",
+    "target":"Goll mac morna",
+    "weight":2
+  },
+  {
+    "source":"Bran",
+    "target":"Eochaidh beag dearg",
+    "weight":2
+  },
+  {
+    "source":"Bodach an ch\u00f3ta lachtna",
+    "target":"Cael",
+    "weight":2
+  },
+  {
+    "source":"Bodach an ch\u00f3ta lachtna",
+    "target":"Caoilte",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"St. Patrick",
+    "weight":2
+  },
+  {
+    "source":"Bran",
+    "target":"Foreign King",
+    "weight":2
+  },
+  {
+    "source":"Bran",
+    "target":"Caoilte",
+    "weight":2
+  },
+  {
+    "source":"Bodach an ch\u00f3ta lachtna",
+    "target":"Con\u00e1n",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Caoilte",
+    "weight":2
+  },
+  {
+    "source":"Caoilte",
+    "target":"Daorghlas",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Druim dearg",
+    "weight":2
+  },
+  {
+    "source":"Bodach an ch\u00f3ta lachtna",
+    "target":"Caol an iarainn",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Ailbhinn",
+    "target":"Foreign King",
+    "weight":2
+  },
+  {
+    "source":"Aillen",
+    "target":"King of ireland",
+    "weight":2
+  },
+  {
+    "source":"Bodach an ch\u00f3ta lachtna",
+    "target":"Fionn mac cumhaill",
+    "weight":2
+  },
+  {
+    "source":"Airgheann",
+    "target":"Ois\u00edn",
+    "weight":2
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Sadhbh",
+    "weight":1
+  },
+  {
+    "source":"An c\u00f9 glas",
+    "target":"Bran",
+    "weight":1
+  },
+  {
+    "source":"An ridire gan gh\u00e1ire",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"An c\u00f9 glas",
+    "target":"Foreign King",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Liur",
+    "weight":1
+  },
+  {
+    "source":"An c\u00f9 glas",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"An c\u00f9 glas",
+    "target":"Eochaidh beag dearg",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Lorc\u00e1n son of lorc",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"L\u00e9ichinn",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Mac an lobhar",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Three Clerics",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Madra maol",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"Neart",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Raoine",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Maighn\u00eds",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Scoith sh\u00edoda",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Muileartach",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Niamh Cinn \u00d3ir",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"\u00dar",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"\u00dar",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Ollum lom dhearg",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"\u00c1rt\u00far",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"\u00c1rt\u00far",
+    "weight":1
+  },
+  {
+    "source":"An t-aodh mac rosaich",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Raighne",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"Ollum lom dhearg",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Neart",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Druim dearg",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Gruaig dhearg",
+    "weight":1
+  },
+  {
+    "source":"Faolan",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Druim dearg",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Druim dearg",
+    "target":"Foreign King",
+    "weight":1
+  },
+  {
+    "source":"Druim dearg",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Druim dearg",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Dubhan\u2019s daughter",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Dubhan\u2019s daughter",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Eochaidh beag dearg",
+    "target":"Fearghas",
+    "weight":1
+  },
+  {
+    "source":"Eochaidh beag dearg",
+    "target":"Foreign King",
+    "weight":1
+  },
+  {
+    "source":"Faolan",
+    "target":"Fearghas",
+    "weight":1
+  },
+  {
+    "source":"Art",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Art",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Art",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Faolan",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Faolan",
+    "target":"Mac an lobhar",
+    "weight":1
+  },
+  {
+    "source":"Art",
+    "target":"Cairbre",
+    "weight":1
+  },
+  {
+    "source":"An t-aodh mac rosaich",
+    "target":"Faolan",
+    "weight":1
+  },
+  {
+    "source":"Arca dubh",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Arca dubh",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Fear sraoinidh nan r\u00e0mh",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Arca dubh",
+    "target":"Cumhall",
+    "weight":1
+  },
+  {
+    "source":"Arca dubh",
+    "target":"Coraige ruadh",
+    "weight":1
+  },
+  {
+    "source":"Arca dubh",
+    "target":"Conn of 100 battles",
+    "weight":1
+  },
+  {
+    "source":"An t-\u00f3glach \u00f3g",
+    "target":"Madra maol",
+    "weight":1
+  },
+  {
+    "source":"An t-\u00f3glach \u00f3g",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Fearghas",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"Iollann",
+    "weight":1
+  },
+  {
+    "source":"An t-aodh mac rosaich",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"An t-aodh mac rosaich",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"An t-aodh mac rosaich",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Fionn mac cumhaill",
+    "target":"Giolla deacair",
+    "weight":1
+  },
+  {
+    "source":"An t-aodh mac rosaich",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Foreign King",
+    "target":"Niamh Cinn \u00d3ir",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Laomunn mac an fhuamhair",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Mac luthach",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Mac luthach",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Mac an lobhar",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Mac an lobhar",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Mac an lobhar",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Mac an lobhar",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Ailidh",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Lon mac liobhain",
+    "target":"Raighne",
+    "weight":1
+  },
+  {
+    "source":"Ailidh",
+    "target":"Gr\u00e1inne",
+    "weight":1
+  },
+  {
+    "source":"Ailidh",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":1
+  },
+  {
+    "source":"Lon mac liobhain",
+    "target":"Muileartach",
+    "weight":1
+  },
+  {
+    "source":"Lomnocht\u00e1n",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Loinnir son of leabhar",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Liur",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Liur",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Mac luthach",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Magnus",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Magnus",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Ois\u00edn",
+    "target":"Raoine",
+    "weight":1
+  },
+  {
+    "source":"Starn",
+    "target":"Torolbh",
+    "weight":1
+  },
+  {
+    "source":"Oscar",
+    "target":"Sadhbh",
+    "weight":1
+  },
+  {
+    "source":"Oscar",
+    "target":"Raoine",
+    "weight":1
+  },
+  {
+    "source":"Oscar",
+    "target":"Raighne",
+    "weight":1
+  },
+  {
+    "source":"Ollum lom dhearg",
+    "target":"\u00dar",
+    "weight":1
+  },
+  {
+    "source":"Ollum lom dhearg",
+    "target":"\u00c1rt\u00far",
+    "weight":1
+  },
+  {
+    "source":"Niamh Cinn \u00d3ir",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Maighn\u00eds",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Neart",
+    "target":"\u00dar",
+    "weight":1
+  },
+  {
+    "source":"Neart",
+    "target":"\u00c1rt\u00far",
+    "weight":1
+  },
+  {
+    "source":"Neart",
+    "target":"Ollum lom dhearg",
+    "weight":1
+  },
+  {
+    "source":"Muileartach",
+    "target":"Raighne",
+    "weight":1
+  },
+  {
+    "source":"Muileartach",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Maighn\u00eds",
+    "target":"Sadhbh",
+    "weight":1
+  },
+  {
+    "source":"Laomunn mac an fhuamhair",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"King of ireland",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":1
+  },
+  {
+    "source":"Airt",
+    "target":"Ceart",
+    "weight":1
+  },
+  {
+    "source":"Iollann",
+    "target":"\u00dar",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Lomnocht\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Liur",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Giant",
+    "target":"Three Clerics",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Giant",
+    "target":"Niamh Cinn \u00d3ir",
+    "weight":1
+  },
+  {
+    "source":"Garadh",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Airgheann",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Airgheann",
+    "target":"Druim dearg",
+    "weight":1
+  },
+  {
+    "source":"Airgheann",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Druid",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Airgheann",
+    "target":"Foreign King",
+    "weight":1
+  },
+  {
+    "source":"Airgheann",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Airgheann",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Mac an lobhar",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Magnus",
+    "weight":1
+  },
+  {
+    "source":"Gr\u00e1inne",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Iollann",
+    "target":"\u00c1rt\u00far",
+    "weight":1
+  },
+  {
+    "source":"Iollann",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Iollann",
+    "target":"Ollum lom dhearg",
+    "weight":1
+  },
+  {
+    "source":"Iollann",
+    "target":"Neart",
+    "weight":1
+  },
+  {
+    "source":"Iollann",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Gr\u00e1inne",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"Airgheann",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Maodh-chabir",
+    "weight":1
+  },
+  {
+    "source":"Gruaig dhearg",
+    "target":"Scoith sh\u00edoda",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"Druim dearg",
+    "weight":1
+  },
+  {
+    "source":"Goll mac morna",
+    "target":"Raoine",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Ailte",
+    "target":"Foreign King",
+    "weight":1
+  },
+  {
+    "source":"Druid",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Raoine",
+    "weight":1
+  },
+  {
+    "source":"Donn mac an deirg",
+    "target":"Lorc\u00e1n son of lorc",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Conn",
+    "target":"Faolan",
+    "weight":1
+  },
+  {
+    "source":"Conn",
+    "target":"Delgus",
+    "weight":1
+  },
+  {
+    "source":"Conn",
+    "target":"Dearg",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Conn",
+    "target":"Con\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Conall",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Raighne",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Conall",
+    "target":"C\u00fa chulainn",
+    "weight":1
+  },
+  {
+    "source":"Colann gan cheann",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Colann gan cheann",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Colann gan cheann",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Colann gan cheann",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Colann gan cheann",
+    "target":"Diarmaid",
+    "weight":1
+  },
+  {
+    "source":"Coireal",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Muileartach",
+    "weight":1
+  },
+  {
+    "source":"Conn",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Lomnocht\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Mac an lobhar",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Giolla deacair",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Giant",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Coireal",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Diarmaid",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Fearghas",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Faolan",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Eochaidh beag dearg",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Delgus",
+    "weight":1
+  },
+  {
+    "source":"Caireall",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Conn of 100 battles",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Conn of 100 battles",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Conn of 100 battles",
+    "target":"Cumhall",
+    "weight":1
+  },
+  {
+    "source":"Conn of 100 battles",
+    "target":"Coraige ruadh",
+    "weight":1
+  },
+  {
+    "source":"Conn",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Coireal",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Cn\u00fa der\u00f3il",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Claigean mac choin",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Ciuthach",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Tuatha d\u00e9 danann",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Caol an iarainn",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Raoine",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Ceann m\u2019\u00f3rd\u00f3ige",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Claigean mac choin",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Mac an lobhar",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Gr\u00e1inne",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Cn\u00fa der\u00f3il",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Conall",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Conn",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"C\u00fa chulainn",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Fear sraoinidh nan r\u00e0mh",
+    "weight":1
+  },
+  {
+    "source":"Caol an iarainn",
+    "target":"Con\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Caol an iarainn",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Ceart",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Ciotach cruadh armach",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Ciuthach",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Ciuthach",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Camagich",
+    "target":"Dearg",
+    "weight":1
+  },
+  {
+    "source":"Camagich",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Camagich",
+    "target":"Maodh-chabir",
+    "weight":1
+  },
+  {
+    "source":"Ciotach cruadh armach",
+    "target":"Sadhbh",
+    "weight":1
+  },
+  {
+    "source":"Ciotach cruadh armach",
+    "target":"Maighn\u00eds",
+    "weight":1
+  },
+  {
+    "source":"Ceart",
+    "target":"Iollann",
+    "weight":1
+  },
+  {
+    "source":"Ciotach cruadh armach",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Ciotach cruadh armach",
+    "target":"Cormac mac airt",
+    "weight":1
+  },
+  {
+    "source":"Ceart",
+    "target":"\u00dar",
+    "weight":1
+  },
+  {
+    "source":"Ceart",
+    "target":"\u00c1rt\u00far",
+    "weight":1
+  },
+  {
+    "source":"Ceart",
+    "target":"Ollum lom dhearg",
+    "weight":1
+  },
+  {
+    "source":"Ceart",
+    "target":"Neart",
+    "weight":1
+  },
+  {
+    "source":"Cairbre",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Cairbre",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Donn mac an deirg",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Delgus",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Delgus",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Delgus",
+    "target":"Faolan",
+    "weight":1
+  },
+  {
+    "source":"Dearg",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"Magnus",
+    "weight":1
+  },
+  {
+    "source":"Dearg",
+    "target":"Maodh-chabir",
+    "weight":1
+  },
+  {
+    "source":"Dearg",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Bua-gach-\u00e1ir",
+    "target":"Diarmaid",
+    "weight":1
+  },
+  {
+    "source":"Bua-gach-\u00e1ir",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Bua-gach-\u00e1ir",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Bua-gach-\u00e1ir",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Cab an Dos\u00e1in",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Cab an Dos\u00e1in",
+    "target":"Ceann m\u2019\u00f3rd\u00f3ige",
+    "weight":1
+  },
+  {
+    "source":"Cab an Dos\u00e1in",
+    "target":"Con\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Cab an Dos\u00e1in",
+    "target":"Diarmaid",
+    "weight":1
+  },
+  {
+    "source":"Delgus",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Magnus",
+    "weight":1
+  },
+  {
+    "source":"Delgus",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Torolbh",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Starn",
+    "weight":1
+  },
+  {
+    "source":"Caoilte",
+    "target":"Delgus",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Niamh Cinn \u00d3ir",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Mac luthach",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Mac an lobhar",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Lomnocht\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"Claigean mac choin",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Iollann",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"Cormac mac airt",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"Dearg",
+    "weight":1
+  },
+  {
+    "source":"Diarmaid",
+    "target":"Garadh",
+    "weight":1
+  },
+  {
+    "source":"Bran",
+    "target":"Fearghas",
+    "weight":1
+  },
+  {
+    "source":"Diarag",
+    "target":"Foreign King",
+    "weight":1
+  },
+  {
+    "source":"Diarag",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"C\u00fa chulainn",
+    "target":"Gr\u00e1inne",
+    "weight":1
+  },
+  {
+    "source":"Cab an Dos\u00e1in",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Cab an Dos\u00e1in",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"C\u00fa chulainn",
+    "target":"Diarmaid",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Lon mac liobhain",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"King of ireland",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Iollann",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Gr\u00e1inne",
+    "weight":1
+  },
+  {
+    "source":"Cailleach",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"Cailleach",
+    "target":"Con\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Cailleach",
+    "target":"Fear sraoinidh nan r\u00e0mh",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Dearg",
+    "weight":1
+  },
+  {
+    "source":"Coraige ruadh",
+    "target":"Goll mac morna",
+    "weight":1
+  },
+  {
+    "source":"Coraige ruadh",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Coraige ruadh",
+    "target":"Cumhall",
+    "weight":1
+  },
+  {
+    "source":"Con\u00e1n",
+    "target":"Three Clerics",
+    "weight":1
+  },
+  {
+    "source":"Cailleach",
+    "target":"Giant",
+    "weight":1
+  },
+  {
+    "source":"Cailleach",
+    "target":"Three Clerics",
+    "weight":1
+  },
+  {
+    "source":"Cairbre",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Maighn\u00eds",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"Cael",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Cumhall",
+    "target":"Ois\u00edn",
+    "weight":1
+  },
+  {
+    "source":"C\u00e9adach",
+    "target":"Scoith sh\u00edoda",
+    "weight":1
+  },
+  {
+    "source":"Cael",
+    "target":"Caoilte",
+    "weight":1
+  },
+  {
+    "source":"C\u00e9adach",
+    "target":"Gruaig dhearg",
+    "weight":1
+  },
+  {
+    "source":"C\u00e9adach",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Cumhall",
+    "target":"St. Patrick",
+    "weight":1
+  },
+  {
+    "source":"Cumhall",
+    "target":"Oscar",
+    "weight":1
+  },
+  {
+    "source":"Cumhall",
+    "target":"Iollann",
+    "weight":1
+  },
+  {
+    "source":"Cormac mac airt",
+    "target":"Sadhbh",
+    "weight":1
+  },
+  {
+    "source":"Cael",
+    "target":"Caol an iarainn",
+    "weight":1
+  },
+  {
+    "source":"Cumhall",
+    "target":"Fionn mac cumhaill",
+    "weight":1
+  },
+  {
+    "source":"Cael",
+    "target":"Con\u00e1n",
+    "weight":1
+  },
+  {
+    "source":"Crochan",
+    "target":"Torolbh",
+    "weight":1
+  },
+  {
+    "source":"Crochan",
+    "target":"Starn",
+    "weight":1
+  },
+  {
+    "source":"Crochan",
+    "target":"Diarmaid",
+    "weight":1
+  },
+  {
+    "source":"\u00c1rt\u00far",
+    "target":"\u00dar",
+    "weight":1
+  }
+]
