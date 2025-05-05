@@ -1326,7 +1326,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-        background-image: url("backg2.png");
+        background-image: url("imgs/backg2.png");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: "Eagle Lake", cursive;
@@ -1362,7 +1362,7 @@
     position: relative;
     justify-content: center;
     align-items: center;
-    background-image: url("bookg2.png");
+    background-image: url("imgs/bookg2.png");
     background-size: contain;
     background-repeat: no-repeat;
   }
