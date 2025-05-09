@@ -90,7 +90,6 @@
     console.log(scenesData.length)
 
     storyNumber = Math.floor(Math.random() * scenesData.length+1)
-    clicked = true
 
     const updateWidth = () => {
       width = window.innerWidth;
@@ -251,13 +250,14 @@ function scrollToTop() {
     backgroundAudio.volume = 0.5; // Lowered volume to avoid competing with narration
 
     // Set up event listeners for user interaction
-    document.addEventListener("click", startAudio, { once: true });
   }
 
   async function startAudio() {
     if (backgroundAudio) {
       try {
         if (selectedChoice == "") {
+              clicked = true
+
           narrate(idx);
         }
         // Attempt to play the audio
@@ -276,7 +276,6 @@ function scrollToTop() {
     rel="stylesheet"
   />
 </svelte:head>
-
 <main>
   {#if scenesData}
     <div class="book-container opened">
@@ -287,85 +286,23 @@ function scrollToTop() {
             <div class="page-content image-container">
               <div class="img">
                 {#if clicked}
-                <img
-                  src={"https://res.cloudinary.com/dkp2zsjlg/image/upload/image_" +
-                    image_index +
-                    ".png"}
-                />
+                  <img
+                    src={"https://res.cloudinary.com/dkp2zsjlg/image/upload/image_" +
+                      image_index +
+                      ".png"}
+                  />
+                {:else}
+                  <img src="/seanchai.png" alt="Story Cover" />
                 {/if}
               </div>
-              
-
-              <!-- <div class="diagram-container">
-    <RadialChart 
-      nodes={sampleNodes} 
-      edges={sampleEdges} 
-    />
-  </div> -->
             </div>
           </div>
           <div class="book-spine"></div>
           <div class="page right-page">
-            <h2>{scenesData[storyNumber].irish_name}</h2>
-            <a>{"(" + scenesData[storyNumber].name + ")"}</a>
-            <div class="page-content text-content" bind:this={textContentRef}>
-              {#if sceneText}
-                {#each sceneText[0]["text-content"].split("XXX") as paragraph, i}
-                  <p class={"p" + i}>{paragraph}</p>
-                {/each}
-              {/if}
-
-              {#if !isLoading && !finalScene}
-                <div class="choices-container">
-                  <h2>What will you do?</h2>
-                  <ul class="choices">
-                    {#each choices as choice, i}
-                      <li
-                        class={selectedChoice === i ? "" : ""}
-                        on:click={() => selectChoice(i)}
-                      >
-                        {choice}
-                      </li>
-                    {/each}
-                  </ul>
-                </div>
-              {/if}
-
-              {#if finalScene}
-                <div class="choices-container">
-                  <ul class="choices">
-                    <li on:click={() => resetSeanchai()}>
-                      <h2>Choose a new story</h2>
-                    </li>
-                  </ul>
-                </div>
-              {/if}
-
-              {#if error}
-                <p class="error">{error}</p>
-              {/if}
-            </div>
-          </div>
-        </div>
-      {:else}
-        <!-- Mobile layout: Single page with book appearance -->
-        <div class="book-wrapper-mobile">
-          <div class="book-mobile">
-            <div class="book-content-mobile">
-              <h2 class="mobile-title">{scenesData[storyNumber].irish_name}</h2>
+            {#if clicked}
+              <h2>{scenesData[storyNumber].irish_name}</h2>
               <a>{"(" + scenesData[storyNumber].name + ")"}</a>
-              
-              <div class="image-container-mobile">
-              {#if clicked}
-                <img
-                  src={"https://res.cloudinary.com/dkp2zsjlg/image/upload/image_" +
-                    image_index +
-                    ".png"}
-                />
-                {/if}
-              </div>
-              
-              <div class="text-content-mobile" bind:this={textContentRef}>
+              <div class="page-content text-content" bind:this={textContentRef}>
                 {#if sceneText}
                   {#each sceneText[0]["text-content"].split("XXX") as paragraph, i}
                     <p class={"p" + i}>{paragraph}</p>
@@ -373,12 +310,12 @@ function scrollToTop() {
                 {/if}
 
                 {#if !isLoading && !finalScene}
-                  <div class="choices-container-mobile">
+                  <div class="choices-container">
                     <h2>What will you do?</h2>
-                    <ul class="choices-mobile">
+                    <ul class="choices">
                       {#each choices as choice, i}
                         <li
-                          class={selectedChoice === i ? "selected-mobile" : ""}
+                          class={selectedChoice === i ? "" : ""}
                           on:click={() => selectChoice(i)}
                         >
                           {choice}
@@ -389,8 +326,8 @@ function scrollToTop() {
                 {/if}
 
                 {#if finalScene}
-                  <div class="choices-container-mobile">
-                    <ul class="choices-mobile">
+                  <div class="choices-container">
+                    <ul class="choices">
                       <li on:click={() => resetSeanchai()}>
                         <h2>Choose a new story</h2>
                       </li>
@@ -402,6 +339,86 @@ function scrollToTop() {
                   <p class="error">{error}</p>
                 {/if}
               </div>
+            {:else}
+              <div class="start-screen">
+                <h2>An Seanchaí Saorga</h2>
+                <p>(The artifical storyteller)</p>
+                <button class="start-button" on:click={() => startAudio()}>
+                 Create a story
+                </button>
+              </div>
+            {/if}
+          </div>
+        </div>
+      {:else}
+        <!-- Mobile layout: Single page with book appearance -->
+        <div class="book-wrapper-mobile">
+          <div class="book-mobile">
+            <div class="book-content-mobile">
+              {#if clicked}
+                <h2 class="mobile-title">{scenesData[storyNumber].irish_name}</h2>
+                <a>{"(" + scenesData[storyNumber].name + ")"}</a>
+                
+                <div class="image-container-mobile">
+                  <img
+                    src={"https://res.cloudinary.com/dkp2zsjlg/image/upload/image_" +
+                      image_index +
+                      ".png"}
+                  />
+                </div>
+                
+                <div class="text-content-mobile" bind:this={textContentRef}>
+                  {#if sceneText}
+                    {#each sceneText[0]["text-content"].split("XXX") as paragraph, i}
+                      <p class={"p" + i}>{paragraph}</p>
+                    {/each}
+                  {/if}
+
+                  {#if !isLoading && !finalScene}
+                    <div class="choices-container-mobile">
+                      <h2>What will you do?</h2>
+                      <ul class="choices-mobile">
+                        {#each choices as choice, i}
+                          <li
+                            class={selectedChoice === i ? "selected-mobile" : ""}
+                            on:click={() => selectChoice(i)}
+                          >
+                            {choice}
+                          </li>
+                        {/each}
+                      </ul>
+                    </div>
+                  {/if}
+
+                  {#if finalScene}
+                    <div class="choices-container-mobile">
+                      <ul class="choices-mobile">
+                        <li on:click={() => resetSeanchai()}>
+                          <h2>Choose a new story</h2>
+                        </li>
+                      </ul>
+                    </div>
+                  {/if}
+
+                  {#if error}
+                    <p class="error">{error}</p>
+                  {/if}
+                </div>
+              {:else}
+                <div class="start-screen-mobile">
+
+
+                  
+    <h2>An Seanchaí Saorga</h2>
+                <p>(The artifical storyteller)</p>
+                  <div class="image-container-mobile">
+                    <img src="/seanchai.png" alt="Story Cover" style="max-height: 400px" />
+                  </div>
+                  <button class="start-button-mobile" on:click={() => startAudio()}>
+                    Create a story
+                  </button>
+                </div>
+              {/if}
             </div>
           </div>
         </div>
@@ -599,6 +616,86 @@ h2 {
 .loading-indicator {
   text-align: center;
   margin: 20px 0;
+}
+
+.start-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+.start-screen h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.start-screen p {
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #5c3117;
+}
+
+.start-button {
+  background-color: #ab804c66;
+  color: #3c2415;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-family: "Eagle Lake", cursive;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+
+
+
+
+.start-button:hover {
+  background-color: #ab804cbb;
+}
+
+/* Start screen styles for mobile */
+.start-screen-mobile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  padding: 20px;
+  text-align: center;
+}
+
+.start-screen-mobile h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.start-screen-mobile p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #5c3117;
+}
+
+.start-button-mobile {
+  background-color: #ab804c66;
+  color: #3c2415;
+  border: none;
+  padding: 12px 25px;
+  font-size: 16px;
+  font-family: "Eagle Lake", cursive;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s;
+}
+
+.start-button-mobile:hover {
+  background-color: #ab804cbb;
 }
 
 .spinner {
