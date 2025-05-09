@@ -1,10 +1,8 @@
 # An Seanchaí Saorga (The artificial storyteller).
 
-Full python code coming end of May!
+Full python code coming end of May! 
 
-Prompts used:
-
-# Irish Mythology Story Tasks
+# Prompts
 
 ## 1. Named entity extraction
 **Description:** from the stories, pull out all named entities
