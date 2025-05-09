@@ -46,6 +46,10 @@
 
   let idx = $derived.by(() => {
     if (textData) {
+      console.log("storyNumber", storyNumber);
+      console.log("sceneNumber", sceneNumber);
+      console.log("scenario", scenario);
+
       return textData.findIndex(
         (item) =>
           item.story === storyNumber &&
@@ -57,7 +61,7 @@
 
   let choices = $derived.by(() => {
     if (scenesData && sceneNumber < 4) {
-      return scenesData[storyNumber].scenes[sceneNumber - 1].choices;
+      return scenesData[(storyNumber)].scenes[sceneNumber - 1].choices;
     }
   });
 
@@ -83,7 +87,10 @@
     charsData = await loadJsonData("final-characters.json");
     textData = await loadJsonData("scene-text.json");
 
+    console.log(scenesData.length)
+
     storyNumber = Math.floor(Math.random() * scenesData.length+1)
+    clicked = true
 
     const updateWidth = () => {
       width = window.innerWidth;
@@ -123,7 +130,8 @@
   }
 
   function resetSeanchai() {
-    console.log("Resetting Seanchai...");
+            scrollToTop();
+
     // Reset the state variables
     finalScene = false;
     selectedChoice = 0;
@@ -131,7 +139,6 @@
     sceneNumber = 1;
     storyNumber = Math.floor(Math.random() * scenesData.length) + 1;
     console.log("New story number:", storyNumber);
-    clicked = false;
     isLoading = false;
     error = "";
 
@@ -203,6 +210,8 @@ function scrollToTop() {
     }
 
     // Create new narration audio
+
+    console.log(idx)
     narration = new Audio(
       `https://res.cloudinary.com/dkp2zsjlg/video/upload/output-${idx}.mp3`,
     );
@@ -277,12 +286,15 @@ function scrollToTop() {
           <div class="page left-page">
             <div class="page-content image-container">
               <div class="img">
+                {#if clicked}
                 <img
                   src={"https://res.cloudinary.com/dkp2zsjlg/image/upload/image_" +
                     image_index +
                     ".png"}
                 />
+                {/if}
               </div>
+              
 
               <!-- <div class="diagram-container">
     <RadialChart 
@@ -344,11 +356,13 @@ function scrollToTop() {
               <a>{"(" + scenesData[storyNumber].name + ")"}</a>
               
               <div class="image-container-mobile">
+              {#if clicked}
                 <img
                   src={"https://res.cloudinary.com/dkp2zsjlg/image/upload/image_" +
                     image_index +
                     ".png"}
                 />
+                {/if}
               </div>
               
               <div class="text-content-mobile" bind:this={textContentRef}>
