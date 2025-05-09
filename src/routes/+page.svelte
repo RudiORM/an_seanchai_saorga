@@ -159,14 +159,27 @@
     }
   }
 
-  function scrollToTop() {
-    if (textContentRef) {
-      textContentRef.scrollTo({
-        top: 0,
-        behavior: "smooth",
-      });
+function scrollToTop() {
+  if (textContentRef) {
+    // For desktop view
+    textContentRef.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+    
+    // For mobile view - find the closest scrollable container
+    if (width <= 600) {
+      // Check if we're in mobile view
+      const mobileContainer = textContentRef.closest('.book-content-mobile');
+      if (mobileContainer) {
+        mobileContainer.scrollTo({
+          top: 0,
+          behavior: "smooth",
+        });
+      }
     }
   }
+}
 
   async function narrate(idx) {
     if (narration) {
