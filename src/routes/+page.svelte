@@ -405,7 +405,7 @@ a {
 
 main {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -633,7 +633,17 @@ h2 {
   overflow-y: auto; /* Add this to make the content scrollable */
   padding-bottom: 40px;
   position: relative;
-  box-sizing: border-box;  }
+  box-sizing: border-box; 
+   -webkit-scrollbar: none;
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none; 
+ }
+
+ .book-content-mobile::-webkit-scrollbar {
+  display: none;
+}
   
   .mobile-title {
     text-align: left;
