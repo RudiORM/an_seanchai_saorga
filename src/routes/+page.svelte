@@ -131,12 +131,31 @@
   function resetSeanchai() {
             scrollToTop();
 
+  function getNewStoryNumber() {
+    // Store the current story number
+    const currentStory = storyNumber;
+    
+    // Initialize the new story number to the current one (to enter the loop)
+    let newStoryNumber = currentStory;
+    
+    // Keep generating new random numbers until we get one different from the current
+    while (newStoryNumber === currentStory) {
+      newStoryNumber = Math.floor(Math.random() * scenesData.length);
+    }
+  
+  return newStoryNumber;
+}
+
+// Then replace your random assignment with:
+
+
+
     // Reset the state variables
     finalScene = false;
     selectedChoice = 0;
     scenario = ".0";
     sceneNumber = 1;
-    storyNumber = Math.floor(Math.random() * scenesData.length) + 1;
+storyNumber = getNewStoryNumber();
     console.log("New story number:", storyNumber);
     isLoading = false;
     error = "";
@@ -149,20 +168,17 @@
       });
     }
 
-    // Reset the background audio
-    if (backgroundAudio) {
-      backgroundAudio.pause();
-      backgroundAudio.currentTime = 0;
-      backgroundAudio = null;
-      setupBackgroundMusic();
-    }
-
     // Reset the narration
     if (narration) {
       narration.pause();
       narration.currentTime = 0;
       narration = null;
     }
+
+        narrate(idx);
+
+
+
   }
 
 function scrollToTop() {
@@ -507,7 +523,9 @@ main {
   padding-right: 85px;
   margin-top: 20px;
   margin-bottom: 20px;
-  height: calc(100% - 40px);
+  height: calc(100% - 60px);
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
 }
 
 .book-spine {
@@ -517,14 +535,15 @@ main {
 }
 
 .page-content {
-  height: 533px;
+  flex: 1; /* Take up remaining space */
   overflow-y: auto;
   scrollbar-width: none;
-  -ms-overflow-style: none; /* Internet Explorer and Edge */
+  -ms-overflow-style: none;
   scrollbar-color: none;
   scrollbar-track-color: none;
   padding: 0px;
   margin-top: 20px;
+  max-height: calc(100% - 100px); /* Maximum height accounting for title area */
 }
 
 .text-content {
