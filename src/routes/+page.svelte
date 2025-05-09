@@ -360,8 +360,11 @@ function scrollToTop() {
                 <h2>An Seanchaí Saorga</h2>
                 <p>(The artifical storyteller)</p>
                 <button class="start-button" on:click={() => startAudio()}>
-                 Create a story
+                 Tell me a story
                 </button>
+             <div class = 'ack'>
+                <p style='font-size:1rem'>Created by Rudi O'Reilly Meehan, <a href="https://www.dataanddesign.ie" target="_blank">Data&Design</a></p>
+</div>
               </div>
             {/if}
           </div>
@@ -428,11 +431,13 @@ function scrollToTop() {
     <h2>An Seanchaí Saorga</h2>
                 <p>(The artifical storyteller)</p>
                   <div class="image-container-mobile">
-                    <img src="/seanchai.png" alt="Story Cover" style="max-height: 400px" />
+                    <img src="/seanchai.png" alt="Story Cover" style="max-height: 320px" />
                   </div>
                   <button class="start-button-mobile" on:click={() => startAudio()}>
-                    Create a story
+                    Tell me a story
                   </button>
+                  <br>
+                <p style='font-size:1rem'>Created by Rudi O'Reilly Meehan, <a href="https://www.dataanddesign.ie" target="_blank">Data&Design</a></p>
                 </div>
               {/if}
             </div>
@@ -507,6 +512,12 @@ main {
 .left-page,
 .right-page {
   width: 50%;
+}
+
+.ack{
+  position: absolute;
+  bottom: 10px;
+  color: #5c3117;
 }
 
 .left-page {
@@ -641,7 +652,6 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   height: 100%;
   padding: 20px;
   text-align: center;
@@ -683,7 +693,6 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   height: 80vh;
   padding: 20px;
   text-align: center;
